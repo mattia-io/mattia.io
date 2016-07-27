@@ -130,6 +130,13 @@ ul {
     text-decoration: line-through;
 }
 
+.footer-text {
+  color: #53bbb4;
+}
+
+.need-help{
+  	font-size: 30px;
+}
 
 /* Layout
 ================================= */
@@ -141,15 +148,21 @@ ul {
 
 }
 
+.white-section {
+	padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 .hero {
 	background-color: #53bbb4;
 	padding: 20px 0 50px 0;
 }
 
-.white-section {
-	padding-top: 50px;
-	padding-bottom: 0px;
-}
+
+.footer {
+  background-color: #eff2f6;
+  width: 100%;
+  padding:50px 0;
 }
 
 .social {
@@ -192,6 +205,19 @@ ul {
 	padding-left: 0px;
 }
 
+/*.button {
+  padding: 10px 15px;
+  border: solid 1px lightgrey;
+  border-radius: 5px;
+}
+
+.button:hover {
+  padding: 10px 15px;
+  background-color: lightgrey;
+  border: solid 1px lightgrey;
+  border-radius: 5px;
+  text-decoration: none;
+}*/
 /* Images
 ================================= */
 
@@ -255,7 +281,6 @@ ul {
 
 .social {
 	margin-right: 30px;
-
 }
 
 
@@ -272,12 +297,17 @@ ul {
 	margin-top: 50px;
 }
 
+.need-help{
+  	font-size: 30px;
+}
+
 .container {
 	width: 90%;
 }
 
 .white-section {
 	padding-top: 100px;
+  padding-bottom: 100px;
 }
 .green-section {
 	padding-top: 100px;
@@ -326,6 +356,7 @@ h1 {
 	line-height: 1.2;
 }
 
+
 h2 {
 	font-size: 22px;
 }
@@ -338,7 +369,9 @@ h2 {
 	font-size: 22px;
 }
 
-
+.need-help{
+  	font-size: 45px;
+}
 
 .DD-image, .yapi-pic  {
 	width: 70%;
@@ -450,5 +483,9 @@ h2 {
 
 .social {
 	margin-right: 30px;
+}
 
+
+.need-help{
+  	font-size: 50px;
 }
