@@ -1,0 +1,39 @@
+head	1.2;
+access;
+symbols;
+locks
+	mattpchx:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2015.02.11.10.36.36;	author mattpchx;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.02.11.10.36.35;	author mattpchx;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@hello:x:1420:1416::/home/mattpchx/mail/mattia.io/hello:/home/mattpchx
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

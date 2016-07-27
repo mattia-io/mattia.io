@@ -1,0 +1,517 @@
+.body {
+  height: 100%;
+  padding: 20px;
+}
+
+.w-nav-link.w--current {
+    color: #fff;
+}
+
+.intro {
+  height: 98%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #facbc5;
+  color: #000;
+}
+
+.logo {
+  display: block;
+  width: 60%;
+  max-width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.logotype {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #000;
+}
+
+.logotype-img {
+  display: block;
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.burgers {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #facbc5;
+}
+
+.sandwiches {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #000;
+}
+
+.salads {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #facbc5;
+}
+
+.sweets {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #000;
+}
+
+.about {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #facbc5;
+  text-align: center;
+}
+
+.testimonials {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #000;
+  text-align: center;
+}
+
+.contacts {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #facbc5;
+}
+
+.map {
+  height: 500px;
+}
+
+.paragraph {
+  display: block;
+  width: 80%;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Brandon reg', sans-serif;
+  color: #fff;
+  font-size: 25px;
+  line-height: 1.5em;
+  text-align: center;
+}
+
+.paragraph.white {
+  color: #fff;
+}
+
+.paragraph.left-aligned {
+  color: #fff;
+  text-align: left;
+}
+
+.container {
+  display: block;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  text-align: center;
+}
+
+.testimonial {
+  display: block;
+  width: 50%;
+  margin-top: -20px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Brandon bld', sans-serif;
+  color: #facbc5;
+  font-size: 50px;
+  line-height: 1.3em;
+  font-weight: 400;
+  text-align: center;
+}
+
+.testimonial-author {
+  font-family: 'Brandon reg', sans-serif;
+  color: #facbc5;
+  font-size: 25px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.quotation_image {
+  margin-top: -59px;
+  padding-bottom: 0px;
+  opacity: 0.34;
+}
+
+.h1 {
+  font-family: 'Brandon bld', sans-serif;
+  color: #fff;
+  font-size: 50px;
+}
+
+.div-food {
+  display: block;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.food-title {
+  margin-bottom: 50px;
+  font-family: 'Brandon bld', sans-serif;
+  color: #fff;
+  font-size: 50px;
+}
+
+.food-title.price {
+  display: none;
+  margin-top: 40px;
+  font-size: 35px;
+}
+
+.paragraph-food {
+  width: 100%;
+  margin-top: 20px;
+  font-family: 'Brandon reg', sans-serif;
+  color: #fff;
+  font-size: 25px;
+  line-height: 1.2em;
+  text-align: center;
+}
+
+.food-img {
+  width: 30%;
+  max-width: 250px;
+  margin-top: -50px;
+}
+
+.imprint {
+  position: static;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 1020;
+  margin: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #facbc5;
+  text-align: center;
+}
+
+.imprint.imprint-home {
+  margin: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.footer-text {
+  display: inline-block;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-family: 'Brandon reg', sans-serif;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.mapp {
+  height: 500px;
+}
+
+.menu-icon {
+  position: fixed;
+  top: 5%;
+  right: 5%;
+  display: block;
+  margin-top: 0px;
+  padding: 0px 10px;
+  border: 2px solid #fff;
+  border-radius: 3px;
+}
+
+.menu-icon:hover {
+  background-color: #fff;
+}
+
+.menu-text {
+  display: inline;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 5px 10px;
+  border: 1px none #000;
+  background-color: transparent;
+  font-family: 'Brandon reg', sans-serif;
+  color: #fff;
+  font-size: 18px;
+  line-height: 34px;
+}
+
+.menu-text:hover {
+  color: #facbc5;
+}
+
+.link-menu {
+  position: fixed;
+  z-index: 90;
+  display: none;
+}
+
+.modal {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 50;
+  display: none;
+  background-color: rgba(0, 0, 0, .8);
+}
+
+.menu-item {
+  display: block;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Brandon bld', sans-serif;
+  color: #fff;
+  text-align: center;
+}
+
+.div-menu-items {
+  margin-top: 200px;
+}
+
+.link-menu-modal {
+  display: block;
+  border-style: none;
+  text-decoration: none;
+}
+
+.navbar {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  background-color: transparent;
+}
+
+.icon-menu {
+  display: inline;
+  margin-top: 10px;
+  padding-top: 0px;
+}
+
+.menu-button {
+  position: fixed;
+  top: 40px;
+  right: 50px;
+  z-index: 100;
+  padding: 0px;
+  border: 2px solid #fff;
+  border-radius: 3px;
+}
+
+.menu-button:hover {
+  background-color: #fff;
+}
+
+.menu-button.w--open {
+  background-color: transparent;
+}
+
+.menu-button.w--open:hover {
+  background-color: #fff;
+}
+
+.navmenu {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+  padding-top: 15%;
+  background-color: rgba(0, 0, 0, .8);
+}
+
+.navlink {
+  margin-top: 30px;
+  font-family: 'Brandon bld', sans-serif;
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+}
+
+.designedby {
+  margin-bottom: 20px;
+  background-color: #000;
+}
+
+.designby-text {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Brandon reg', sans-serif;
+  color: #fff;
+  font-weight: 400;
+  text-align: center;
+}
+
+.mattia {
+  color: #fff;
+  text-decoration: none;
+}
+
+.mattia:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.para-imprint {
+  margin-bottom: 30px;
+  font-family: 'Brandon reg', sans-serif;
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.4em;
+  text-align: left;
+}
+
+.para-imprint.signature {
+  text-align: center;
+}
+
+.imprint-header {
+  font-family: 'Brandon bld', sans-serif;
+  color: #fff;
+  font-size: 22px;
+}
+
+@media (max-width: 991px) {
+  .logo {
+    width: 60%;
+  }
+  .food-img {
+    width: 40%;
+  }
+  .menu-button {
+    right: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .body {
+    padding: 10px;
+  }
+  .intro {
+    height: auto;
+  }
+  .paragraph.left-aligned {
+    text-align: center;
+  }
+  .food-img {
+    width: 50%;
+  }
+  .imprint {
+    margin: 10px;
+  }
+  .menu-button {
+    top: 30px;
+    right: 20px;
+  }
+  .para-imprint {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+}
+
+@media (max-width: 479px) {
+  .body {
+    padding: 10px;
+  }
+  .intro {
+    height: auto;
+    padding-bottom: 100px;
+  }
+  .logo {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .logotype-img {
+    width: 105%;
+  }
+  .paragraph {
+    width: 90%;
+    font-size: 22px;
+  }
+  .testimonial {
+    width: 85%;
+    font-size: 40px;
+  }
+  .testimonial-author {
+    font-size: 20px;
+  }
+  .h1 {
+    font-size: 35px;
+  }
+  .div-food {
+    width: 85%;
+  }
+  .food-title {
+    font-size: 35px;
+  }
+  .food-title.price {
+    font-size: 25px;
+  }
+  .paragraph-food {
+    width: 100%;
+    font-size: 20px;
+    line-height: 1.3em;
+  }
+  .imprint {
+    margin-bottom: 0px;
+  }
+  .footer-text {
+    line-height: 1.5em;
+  }
+  .menu-button {
+    top: 20px;
+  }
+  .designedby {
+    margin-bottom: 10px;
+    background-color: #000;
+  }
+  .designby-text {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Brandon reg', sans-serif;
+    color: #fff;
+    font-weight: 300;
+    text-align: center;
+  }
+  .mattia {
+    color: #fff;
+    text-decoration: none;
+  }
+  .mattia:hover {
+    color: #facbc5;
+    line-height: 24px;
+    text-decoration: none;
+  }
+}
+
+@font-face {
+  font-family: 'Brandon bld';
+  src: url('../fonts/Brandon_bld.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Brandon reg';
+  src: url('../fonts/Brandon_reg.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}

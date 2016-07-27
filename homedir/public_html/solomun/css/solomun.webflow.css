@@ -1,0 +1,66 @@
+.body {
+  height: 100%;
+}
+
+.section {
+  height: 100%;
+  padding-top: 20%;
+  padding-right: 2%;
+  padding-left: 2%;
+  background-color: #f3e9e9;
+  font-family: 'Brandon reg', sans-serif;
+  color: #494b52;
+  text-align: center;
+}
+
+.section.images-section {
+  padding-top: 10%;
+}
+
+.section.slide-section {
+  padding-top: 5%;
+  background-color: #e9f1f3;
+}
+
+.section.slide-section.slide-section-2 {
+  background-color: #f3e9e9;
+}
+
+.text {
+  margin-top: 0px;
+}
+
+.plus {
+  margin-top: 130px;
+  font-size: 100px;
+}
+
+.slider {
+  height: 450px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: transparent;
+}
+
+.img-slide {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.slide-1 {
+  height: 310px;
+}
+
+@font-face {
+  font-family: 'Brandon bld';
+  src: url('../fonts/Brandon_bld.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Brandon reg';
+  src: url('../fonts/Brandon_reg.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}

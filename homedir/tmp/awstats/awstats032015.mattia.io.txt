@@ -1,0 +1,662 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201503 will be lost/reset.
+# Last config file used to build this data file was /home/mattpchx/tmp/awstats/awstats.mattia.io.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2003                
+POS_TIME 2664                
+POS_VISITOR 19838               
+POS_DAY 23110               
+POS_DOMAIN 3394                
+POS_LOGIN 3804                
+POS_ROBOT 3959                
+POS_WORMS 4415                
+POS_EMAILSENDER 4546                
+POS_EMAILRECEIVER 4689                
+POS_SESSION 23831               
+POS_SIDER 23988               
+POS_FILETYPES 4824                
+POS_DOWNLOADS 4946                
+POS_OS 4994                
+POS_BROWSER 5122                
+POS_SCREENSIZE 5657                
+POS_UNKNOWNREFERER 5731                
+POS_UNKNOWNREFERERBROWSER 6069                
+POS_ORIGIN 6300                
+POS_SEREFERRALS 6437                
+POS_PAGEREFS 6592                
+POS_SEARCHWORDS 7716                
+POS_KEYWORDS 7868                
+POS_MISC 2328                
+POS_ERRORS 7927                
+POS_CLUSTER 3660                
+POS_SIDER_404 8024                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150401004912 3 315 14512835771013
+FirstTime 0
+LastTime 20150331185917
+LastUpdate 20150401092640 3 0 2 0 0
+TotalVisits 96                  
+TotalUnique 77                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 83                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 11288 10 14 28220
+1 4 12 395733 4 9 19024
+2 1 1 5644 4 13 25300
+3 5 10 273523 6 11 22576
+4 6 16 427831 5 10 24668
+5 6 14 415334 3 6 19024
+6 6 18 641919 4 11 19367
+7 5 16 529231 5 13 21116
+8 4 9 267879 11 20 47244
+9 7 17 510513 12 18 56440
+10 5 15 518826 35 36 22576
+11 5 13 619594 76 78 25932
+12 7 21 668373 4 12 26760
+13 4 12 395733 51 116 11288
+14 2 8 266996 27 30 33864
+15 8 29 940130 2 7 11288
+16 8 20 545280 10 24 43692
+17 5 19 657085 1 8 9828
+18 4 9 267879 6 10 22576
+19 0 0 0 28 44 156572
+20 5 11 283928 13 22 67728
+21 1 4 133498 15 24 73372
+22 1 1 5644 4 7 16932
+23 3 5 134381 10 19 52888
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+de 53 148 4747010
+gb 14 45 1453312
+us 10 23 699839
+it 7 21 668373
+nl 6 22 780178
+ie 4 5 137933
+lu 3 3 16932
+ua 1 1 5644
+lv 1 1 5644
+se 1 1 5644
+ch 1 3 123093
+sa 1 4 133498
+eu 1 4 133498
+at 1 1 5644
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bot[\s_+:,\.\;\/\\-] 88 485384 20150330142208 0
+googlebot 65 283268 20150330211505 0
+slurp 21 19656 20150330223150 0
+spider 19 15815 20150330031028 0
+crawl 2 11288 20150330060845 0
+robot 2 11288 20150321211535 0
+no_user_agent 1 5644 20150320110228 0
+ia_archiver 1 5644 20150320145304 0
+msnbot\-media 1 5644 20150330155737 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+css 64 133888 0 0
+png 114 8217954 0 0
+html 104 564400 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+linuxandroid 31
+winxp 5
+linux 12
+winvista 16
+win7 29
+macosx 175
+linuxgentoo 1
+Unknown 13
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 31
+safari7.0 5
+msie6.0 1
+chrome40.0.2214.115 32
+chrome41.0.2272.96 4
+android 20
+vodafone 3
+firefox3.0.1 1
+chrome40.0.2214.109 3
+chrome40.0.2214.111 3
+chrome38.0.2125.101 4
+safari6.0 6
+safari7.1.2 4
+safari6.1.5 4
+iphone 6
+safari4.0 1
+mozilla 16
+safari6.2.3 4
+chrome37.0.2062.120 9
+chrome27.0.1453 3
+chrome41.0.2272.76 52
+firefox6.0 10
+chrome41.0.2272.89 21
+safari7.1.3 4
+safari8.0 8
+firefox36.0 16
+firefox27.0 1
+safari8.0.3 12
+Unknown 5
+firefox35.0 16
+chrome41.0.2272.94 4
+firefox3.6.8 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150321115305
+Mozilla/5.0_(compatible;_MegaIndex.ru/2.0;__https://www.megaindex.ru/?tab=linkAnalyze) 20150331185917
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html) 20150316183034
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150321115305
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html) 20150316183034
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 60 101
+From1 0 0
+From2 2 2
+From3 39 39
+From4 3 140
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 23
+http://dandydiary.de 4 4
+http://hvd-store.com 3 3
+http://t.co/uP8dgoXi6R 3 3
+http://captn-crop.com 3 3
+http://www.dailyinspiration.nl/interview-present-plus/ 3 3
+http://dandydiary.de/about/ 2 2
+http://hundejo.com 2 2
+http://pizza-tycoon.de 2 2
+http://specialdessous.com 2 2
+http://burger-imperia.com 2 2
+https://ello.co/mattia-io 1 1
+https://www.facebook.com 1 1
+http://captn-crop.com/product/cp-0016/ 1 1
+http://captn-crop.com/product-category/bowler-hats/ 1 1
+http://dandydiary.de/page/4/ 1 1
+http://dandydiary.de/was-man-eben-so-macht-in-hotelzimmern/ 1 1
+http://www.dailyinspiration.nl/dimension-festival-2014/ 1 1
+http://captn-crop.com/checkout/ 1 1
+http://dandydiary.de/zoolander-catwalk-comback-genialer-social-media-komplott/ 1 1
+http://captn-crop.com/product-category/caps/6-panels/ 1 1
+http://captn-crop.com/cart/ 1 1
+http://dandydiary.de/tag/nike-air-max/ 1 1
+http://www.dailyinspiration.nl/in-case-you-werent-able-to-attend-fitc-2015-this-is-what-you-missed/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 2 14644
+404 359 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 233
+/js/lib/fckeditor/editor/fckeditor.html 1 -
+/backup/bigdump.php 1 -
+/news/fckeditor/editor/fckeditor.html 1 -
+/ 2 http://whois.domaintools.com/mattia.io
+/administrator/fckeditor1/editor/fckeditor.html 1 -
+/administrator/php/editor/fckeditor.html 1 -
+/static/scripts/ajax/FCKeditor/editor/fckeditor.html 1 -
+/admin.php 1 -
+/login/editors/fckeditor/editor/fckeditor.html 1 -
+/admin/bigdump.php 1 -
+/admin/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/bigdump.php 1 -
+/hybridauth/hybridauth/install.php 1 -
+/site/modules/fckeditor/fckeditor.html 1 -
+/editor/editor/ 1 -
+/include/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/scripts/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/openemr-4.1.1/library/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/system/fckeditor/editor/ 2 -
+/images/uploader/uploadify.css 1 -
+/webadmin/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/wp-content/plugins/chenpress/FCKeditor/editor/fckeditor.html 1 -
+/sysadmin/fckeditor/editor/ 1 -
+/auth/hybridauth/install.php 1 -
+/media/uploadify/uploadify.css 1 -
+/admin/includes/rte/editor/fckeditor.html 1 -
+/ckeditor/editor/ 1 -
+/resources/fckeditor/editor/fckeditor.html 1 -
+/assets/plugins/tinymce212/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/editor/fckeditor.html 1 -
+/fckeditor1/editor/fckeditor.html 1 -
+/stats/libs/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 -
+/fckeditor/jscripts/editor/fckeditor.html 1 -
+/admin/fckeditor_ap/editor/fckeditor.html 1 -
+/hybridauth/install.php 1 -
+/js/fckeditor/editor/ 1 -
+/app/webroot/js/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/php/fckeditor/editor/fckeditor.html 1 -
+/community/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/manage/editor/fckeditor.html 1 -
+/assets/uploadify/uploadify.css 1 -
+/administrator/editors/fckeditor/fckeditor.html 1 -
+/edit/editor/fckeditor.html 1 -
+/dump/bigdump/bigdump.php 1 -
+/extensions/FCKeditor/fckeditor/editor/fckeditor.html 1 -
+/blogscript/fckeditor/editor/fckeditor.html 1 -
+/FCKeditor/editor/fckeditor.html 1 -
+/blog/admin/FCKeditor/editor/fckeditor.html 1 -
+/scripts/uploadify/uploadify.css 1 -
+/admin/fck/editor/filemanager/connectors/uploadtest.html 1 -
+/editorold/editor/ 1 -
+/fckeditor/editor/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/includes/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/pub/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/admin/produtos/fckeditor/editor/fckeditor.html 1 -
+/Fckeditorold/editor/ 1 -
+/wp-login.php 1 -
+/js/fckeditor/editor/fckeditor.html 1 -
+/apps/uploadify/uploadify.css 1 -
+/includes/php-ofc-library/ofc_upload_image.php 1 -
+/Manage/Include/fckeditor/editor/fckeditor.html 1 -
+/cms/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/sites/all/libraries/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/sites/default/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/system/fckeditor/editor/fckeditor.html 1 -
+/admin/filebrowser/uploadify/uploadify.css 1 -
+/common/htmlarea/editor/fckeditor.html 1 -
+/jsincludes/FCKeditor/editor/fckeditor.html 1 -
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin/js/uploadify/uploadify.css 1 -
+/assets/plugins/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/WebAdmin/FCKeditor/editor/fckeditor.html 1 -
+/Backend/FCKeditor/editor/fckeditor.html 1 -
+/public/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/zenphoto/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/system/editor/fckeditor/editor/fckeditor.html 1 -
+/HTMLEditor/editor/fckeditor.html 1 -
+/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/fck/editor/fckeditor.html 1 -
+/admin/fckeditor/editor/fckeditor.html 1 -
+/media/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/js/jquery/uploadify/uploadify.css 1 -
+/admin/editors/fckeditor/editor/fckeditor.html 1 -
+/cart/admin/htmleditor/editor/fckeditor.html 1 -
+/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/Fckeditornew/editor/ 1 -
+/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/data/fckeditor/editor/fckeditor.html 1 -
+/fckeditor_ap/editor/fckeditor.html 1 -
+/plugins/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/js/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/includes/fckeditor/editor/ 1 -
+/manager/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/html/js/editor/fckeditor/editor/fckeditor.html 1 -
+/cms/fckeditor/editor/fckeditor.html 1 -
+/multicms/packages/fckeditor/editor/fckeditor.html 1 -
+/includes/uploadify/uploadify.css 1 -
+/fckphp/editor/fckeditor.html 1 -
+/gallery/fckeditor/editor/fckeditor.html 1 -
+/fronteiranorte/editor/editor/fckeditor.html 1 -
+/adminweb/util/fckeditor/editor/fckeditor.html 1 -
+/editor/editor/fckeditor.html 1 -
+/administrator/index.php 1 -
+/backup/bigdump/bigdump.php 1 -
+/php-ofc-library/ofc_upload_image.php 1 -
+/scripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/public/js/fckeditor/fckeditor.html 1 -
+/path/fckeditor/editor/fckeditor.html 1 -
+/admin_area/charts/ofc-library/ofc_upload_image.php 1 -
+/paginas/fckeditor/editor/fckeditor.html 1 -
+/administrator/fckeditor/editor/fckeditor.html 1 -
+/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin/FCKeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/CFIDE/scripts/ajax/FCKeditor/editor/fckeditor.html 1 -
+/dump/bigdump.php 1 -
+/editors/fckeditor/editor/fckeditor.html 1 -
+/library/editor/fckeditor/editor/fckeditor.html 1 -
+/includes/js/plugins/uploadify/uploadify.css 1 -
+/js/uploadify/uploadify.css 1 -
+/uploadify/uploadify.css 1 -
+/ofc-library/ofc_upload_image.php 1 -
+/admin/fckeditor/editor/ 1 -
+/mods/ckeditor/fckeditor.html 1 -
+/public/cms/resources/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/main/inc/lib/fckeditor/editor/fckeditor.html 1 -
+/admin/uploadify/uploadify.css 1 -
+/javascripts/fckeditor/editor/fckeditor.html 2 -
+/js/krte/editor/fckeditor.html 1 -
+/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/robots.txt 124 -
+/user 1 -
+/js/uploader/uploadify.css 1 -
+/js/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/media/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/uploader/uploadify.css 1 -
+/scripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/scripts/uploadify/uploadify.css 1 -
+/Fckeditor/editor/ 1 -
+/media/js/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/html/proudphufah/admin/fckeditor/editor/fckeditor.html 1 -
+/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/scripts/fckeditor/editor/fckeditor.html 1 -
+/upload/uploadify.css 1 -
+/db/include/class/fckeditor/editor/fckeditor.html 1 -
+/tinybrowser/readme.txt 1 -
+/classifieds/submit/FCKeditor/editor/fckeditor.html 1 -
+/static/uploadify/uploadify.css 1 -
+/scripts/fckeditor/editor/ 1 -
+/FCKeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/mod/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/app/webroot/js/fckeditor/editor/fckeditor.html 1 -
+/_engine/fckeditor/editor/fckeditor.html 1 -
+/assets/includes/fckeditor/editor/fckeditor.html 1 -
+/util/FCKeditor/editor/fckeditor.html 1 -
+/cms/HTMLEditor/editor/fckeditor.html 1 -
+/wp-content/plugins/wp-insert/fckeditor/editor/fckeditor.html 1 -
+/admin/view/javascript/fckeditor/editor/fckeditor.html 1 -
+/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/editor/fckeditor.html 1 -
+/register/fckeditor/editor/fckeditor.html 1 -
+/core/uploadify/uploadify.css 1 -
+/joomla/Medkorp/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/js/ofc2/php-ofc-library/ofc_upload_image.php 1 -
+/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/modules/fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/include/fckeditor/editor/ 1 -
+/piwik/libs/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 -
+/include/fckeditor/editor/fckeditor.html 1 -
+/includes/editors/fckeditor/editor/fckeditor.html 1 -
+/_ee/_fslib/swfupload/Changelog.txt 1 -
+/inc/js/uploadify/uploadify.css 1 -
+/admin/editor/editor/filemanager/connectors/uploadtest.html 1 -
+/gateweb/scripts/fckeditor/editor/fckeditor.html 1 -
+/js/jquery/plugins/uploadify/uploadify.css 1 -
+/editor/filemanager/connectors/uploadtest.html 1 -
+/manage/fckeditor/editor/fckeditor.html 1 -
+/news_script/fckeditor/editor/fckeditor.html 1 -
+/system/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/oa/fckeditor/editor/fckeditor.html 1 -
+/app/webroot/js/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/plugins/HTMLeditor/FCKeditor/editor/fckeditor.html 1 -
+/core/php/fckeditor/editor/fckeditor.html 1 -
+/editor/fckeditor/editor/ 1 -
+/asetrack/includes/fckeditor/editor/fckeditor.html 1 -
+/libs/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 -
+/app/webroot/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/common/fckeditor/editor/ 1 -
+/inc/fckeditor/editor/ 1 -
+/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/modules/fckeditor/fckeditor/editor/fckeditor.html 1 -
+/js/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/photogallery/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/templates/fckeditor/editor/fckeditor.html 1 -
+/fck/editor/ 1 -
+/js/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/wp-content/plugins/fckeditor-for-wordpress-plugin/fckeditor/editor/fckeditor.html 1 -
+/AWT/editor/fckeditor.html 1 -
+/sites/all/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/media/filebrowser/uploadify/uploadify.css 1 -
+/bigdump/bigdump.php 1 -
+/assets/js/fckeditor/editor/fckeditor.html 1 -
+/photo/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/public/fckeditor/editor/fckeditor.html 1 -
+/inurl-/fckeditor/editor/fckeditor.html 1 -
+/bbadmin/editors/fckeditor/editor/fckeditor.html 1 -
+/admin/js/uploader/uploadify.css 1 -
+/admin/dump/bigdump.php 1 -
+/admin/classes/components/formattedTextArea/fckeditor/editor/fckeditor.html 1 -
+/fckeditor/editor/ 1 -
+/includes/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/manage/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/manage/fckeditor/editor/ 1 -
+/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/admin/js/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/v1/plugins/editors/fckeditor/editor/fckeditor.html 1 -
+/data/scripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/control/editor/fckeditor.html 1 -
+/admin/fckeditor1/editor/fckeditor.html 1 -
+/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/editor1/editor/ 1 -
+/assets/plugins/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/sites/all/libraries/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/sites/all/modules/fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/sqlite/main.php 1 -
+/public/js/uploadify/uploadify.css 1 -
+/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/webmanage/fckeditor/editor/fckeditor.html 1 -
+/fck/editor/fckeditor.html 1 -
+/lib/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/openemr/library/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/dhtml_editor/editor/fckeditor.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 83
+5.9.151.67 8 8 45152 20150331185917
+213.127.163.16 3 12 400494 20150303061940
+66.249.81.191 3 4 27337 20150319044548
+92.225.67.239 3 5 123093 20150310160402
+94.242.246.23 3 3 16932 20150327053148
+82.132.223.92 2 2 0 20150304092811
+66.249.81.186 2 4 32098 20150320044919
+78.55.213.207 2 4 128737 20150305035249
+86.10.240.125 2 5 139142 20150319082407
+78.55.146.168 2 5 139142 20150304152017
+89.234.68.87 2 2 11288 20150304120806
+92.217.9.255 2 5 130829 20150321094306
+148.251.77.34 2 2 11288 20150322221705
+95.45.252.3 2 2 11288 20150304110642
+85.181.118.114 2 7 256591 20150312043759
+92.78.129.235 2 7 256591 20150310092111
+84.133.60.72 2 6 246186 20150312104717
+85.179.7.46 1 4 133498 20150314125741
+46.183.220.132 1 1 5644 20150330001914
+80.187.110.228 1 4 133498 20150327155749
+88.73.60.97 1 4 133498 20150302081733
+178.8.71.114 1 4 133498 20150304173220
+171.25.193.20 1 1 5644 20150330205716
+90.202.42.109 1 4 133498 20150305054535
+37.187.129.166 1 1 5644 20150328054248
+66.249.81.194 0 2 20810 
+188.103.184.255 1 4 133498 20150310164600
+91.65.255.163 1 4 133498 20150326203417
+188.107.226.182 1 4 133498 20150310073826
+217.200.185.93 1 4 133498 20150325034045
+2.35.142.77 1 4 133498 20150313172947
+62.158.207.141 1 4 133498 20150328200947
+78.55.220.153 1 3 123093 20150309060532
+217.87.106.16 1 4 133498 20150309092912
+178.197.239.159 1 3 123093 20150316110713
+92.20.31.106 1 4 133498 20150328144529
+217.12.206.140 1 1 5644 20150331132453
+195.195.80.222 1 4 133498 20150310140820
+188.138.1.229 1 1 5644 20150326025746
+5.170.80.184 1 4 133498 20150307155626
+91.65.222.78 1 4 133498 20150308153140
+91.64.77.171 1 4 133498 20150308153023
+37.201.194.217 1 4 133498 20150327103903
+79.32.131.11 1 3 123093 20150302175830
+173.252.120.113 0 1 115357 
+212.86.219.134 1 1 5644 20150305042216
+5.69.122.10 1 3 123093 20150301123606
+37.4.197.32 1 3 123093 20150312231412
+78.49.254.206 1 3 123093 20150302065711
+151.47.109.92 1 4 133498 20150304171500
+213.61.224.60 1 4 133498 20150309115449
+92.20.31.234 1 4 133498 20150315125832
+81.155.50.53 1 4 133498 20150305102853
+62.158.194.136 1 4 133498 20150304210515
+83.163.197.77 1 4 133498 20150302071748
+89.31.57.5 1 1 5644 20150322015344
+107.141.184.43 1 4 133498 20150317013100
+92.225.97.176 1 4 133498 20150309162421
+216.163.188.233 1 1 5644 20150303050212
+80.229.114.22 1 4 133498 20150320065416
+86.136.69.240 1 4 133498 20150304123035
+173.252.73.114 0 1 115357 
+176.198.105.90 1 4 133498 20150324171324
+79.200.200.246 1 4 133498 20150316055025
+92.78.131.224 1 3 123093 20150311133546
+159.149.133.252 1 1 5644 20150316183034
+173.252.105.119 0 1 115357 
+66.249.93.221 0 1 2092 
+86.177.165.227 1 3 123093 20150302103639
+78.55.64.93 1 3 123093 20150306183916
+213.153.85.54 1 3 123093 20150328082059
+78.55.149.139 1 4 133498 20150302162956
+185.17.205.68 1 4 133498 20150313154924
+72.8.191.253 1 1 5644 20150306033157
+151.18.139.199 1 4 133498 20150304125639
+31.13.97.115 0 1 115357 
+62.140.132.219 1 3 123093 20150303011411
+87.195.234.90 1 3 123093 20150302074327
+90.192.130.11 1 4 133498 20150305185534
+93.220.254.39 1 4 133498 20150312134952
+23.95.43.77 1 1 5644 20150326080311
+85.179.153.100 1 3 123093 20150315063904
+66.249.93.224 1 2 121001 20150314073101
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20150301 1 3 123093 1
+20150302 7 24 892866 7
+20150303 6 20 662729 5
+20150304 13 31 829208 9
+20150305 6 17 534875 5
+20150306 2 4 128737 2
+20150307 2 8 266996 2
+20150308 2 8 266996 2
+20150309 4 17 754301 4
+20150310 9 24 775417 7
+20150311 1 3 123093 1
+20150312 6 18 641919 6
+20150313 2 8 266996 2
+20150314 4 10 278284 4
+20150315 3 9 272640 3
+20150316 3 8 262235 3
+20150317 3 7 155191 3
+20150318 1 2 121001 1
+20150319 2 3 21693 2
+20150320 3 9 272640 3
+20150321 1 3 123093 1
+20150322 4 4 22576 4
+20150323 1 1 5644 1
+20150324 2 5 139142 2
+20150325 1 4 133498 1
+20150326 3 6 144786 3
+20150327 3 9 272640 3
+20150328 5 13 401377 5
+20150330 2 2 11288 2
+20150331 2 2 11288 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 94
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 104 564400 96 96
+END_SIDER

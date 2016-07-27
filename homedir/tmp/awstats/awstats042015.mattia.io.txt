@@ -1,0 +1,676 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201504 will be lost/reset.
+# Last config file used to build this data file was /home/mattpchx/tmp/awstats/awstats.mattia.io.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2003                
+POS_TIME 2681                
+POS_VISITOR 18883               
+POS_DAY 21358               
+POS_DOMAIN 3433                
+POS_LOGIN 3887                
+POS_ROBOT 4042                
+POS_WORMS 4458                
+POS_EMAILSENDER 4589                
+POS_EMAILRECEIVER 4732                
+POS_SESSION 22042               
+POS_SIDER 22200               
+POS_FILETYPES 4867                
+POS_DOWNLOADS 4988                
+POS_OS 5036                
+POS_BROWSER 5232                
+POS_SCREENSIZE 5771                
+POS_UNKNOWNREFERER 5845                
+POS_UNKNOWNREFERERBROWSER 6283                
+POS_ORIGIN 6585                
+POS_SEREFERRALS 6722                
+POS_PAGEREFS 6887                
+POS_SEARCHWORDS 8783                
+POS_KEYWORDS 8941                
+POS_MISC 2345                
+POS_ERRORS 9006                
+POS_CLUSTER 3743                
+POS_SIDER_404 9104                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150501045708 47 8434 11324724326574
+FirstTime 20150401004912
+LastTime 20150430211433
+LastUpdate 20150501095259 47 0 46 0 0
+TotalVisits 107                 
+TotalUnique 58                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 62                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 13 179533 78 82 41600
+1 5 8 156074 6 11 26760
+2 3 11 495041 3 5 11288
+3 9 11 168245 5 11 22576
+4 12 17 313031 28 29 16932
+5 13 21 446529 25 43 238391
+6 10 10 56440 15 31 69820
+7 10 10 56440 13 19 69820
+8 11 11 62084 5 11 137933
+9 10 20 547046 9 20 38048
+10 12 24 675783 23 27 5644
+11 3 9 272640 11 15 45152
+12 13 15 190821 8 13 33864
+13 6 6 33864 5 9 19024
+14 19 21 224685 10 20 182202
+15 12 20 545837 9 14 33864
+16 4 13 505446 14 27 151117
+17 9 15 306504 11 27 66268
+18 2 4 128737 47 55 35956
+19 17 20 223802 15 21 41600
+20 16 16 90304 18 27 92396
+21 3 6 144786 15 25 62084
+22 1 1 5644 63 93 41600
+23 0 0 0 14 23 52888
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+ua 145 145 818380
+de 16 37 1170247
+us 10 20 773576
+rs 9 29 1026364
+cn 6 6 33864
+nl 5 16 625870
+gb 4 12 395733
+ru 3 3 16932
+fr 3 3 16932
+it 2 8 266996
+ar 2 8 266996
+tw 1 4 133498
+in 1 1 5644
+at 1 4 133498
+mu 1 1 5644
+se 1 4 133498
+sk 1 1 5644
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+googlebot 94 451128 20150429054346 0
+bot[\s_+:,\.\;\/\\-] 86 568086 20150430183428 0
+spider 27 34496 20150430221323 0
+crawl 12 296676 20150430093453 0
+no_user_agent 5 28220 20150429120122 0
+slurp 3 5644 20150421084249 0
+robot 3 16932 20150421075252 0
+netcraft 1 5644 20150408214340 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+css 35 73220 0 0
+png 56 4570856 0 0
+html 211 1185240 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 16
+linuxandroid 13
+winlong 4
+winxp 87
+win2000 21
+winvista 4
+linuxgentoo 1
+win95 9
+winnt 12
+java 4
+win98 9
+linux 2
+win7 17
+macosx 92
+winme 9
+win16 2
+Unknown 16
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 34
+safari7.0 3
+msie6.0 80
+firefox5.0 1
+chrome41.0.2272.96 7
+android 2
+chrome28.0.1500.94 4
+firefox18.0 2
+opera9.80 1
+iphone 8
+msie8.0 1
+chrome42.0.2311.90 33
+netscape3.0 6
+msie7.0 4
+msie2.0 3
+safari8.0 21
+msie5.0 8
+Unknown 11
+opera9.0 3
+opera7.54 3
+firefox3.0.8 1
+vodafone 3
+opera8.00 3
+chrome41.0.2272.118 13
+msie5.5 15
+netscape4.79 3
+chrome36.0.1985.143 1
+mozilla 30
+firefox37.0 15
+chrome42.0.2311.135 4
+firefox14.0.1 1
+safari8.0.2 4
+chrome41.0.2228.0 3
+firefox36.0 4
+chrome21.0.1180.89 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150430025717
+Mozilla/5.0_(compatible;_MegaIndex.ru/2.0;__https://www.megaindex.ru/?tab=linkAnalyze) 20150414063456
+Ruby 20150429054245
+GigablastOpenSource/1.0 20150425223623
+Mozilla/5.0_(compatible;_Add_Catalog/2.1;) 20150424053442
+ltx71_-_(http://ltx71.com/) 20150419175957
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150430025717
+Ruby 20150429054245
+GigablastOpenSource/1.0 20150425223623
+ltx71_-_(http://ltx71.com/) 20150419175957
+Java/1.8.0_40 20150408150347
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 44 58
+From1 0 0
+From2 3 3
+From3 161 161
+From4 3 80
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 2 2
+baidu 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 58
+http://0n-line.tv 6 6
+http://sololift-grundfos.ru 6 6
+http://www.to2ko.ru 6 6
+http://www.new-square.su 6 6
+http://chelnytruck.ru 6 6
+http://electronicmuz.ru 5 5
+http://tentauto23.ru 3 3
+http://milediva.ru 3 3
+http://www.simtree.ru 3 3
+http://cs-2014.su 3 3
+http://droidmod.ru 3 3
+http://solnplast.ru 3 3
+http://red-chair.net 3 3
+http://chimiver.info 3 3
+http://igru-xbox.net 3 3
+http://gcup.ru 3 3
+http://www.tell-all.ru 3 3
+http://ublaze.ru 3 3
+http://autofore.ru 3 3
+http://mini.afora.ru 3 3
+http://imperiafilm.ru 3 3
+http://www.artparquet.ru 3 3
+http://mcsone.com 3 3
+http://feminissimo.ru 3 3
+http://detskie-konstruktory.ru 3 3
+http://vkadre.ws 2 2
+http://dandydiary.de/en/ 1 1
+http://dandydiary.de/stiff-itchy-and-just-too-tight-us-kids-haben-keinen-bock-mehr-auf-jeans/ 1 1
+http://fixprice.xoztovari.ru 2 2
+http://ublaze.ru 1 1
+http://dandydiary.de/dandy-diary-in-kitzbuehel/ 1 1
+http://t.co/uP8dgoXi6R 2 2
+http://l.facebook.com/lsr.php 1 1
+http://vseproaveo.ru 2 2
+http://bluerobot.info/nw2/bryrodafejonuly 1 1
+http://l.facebook.com/l.php 1 1
+http://www.dailyinspiration.nl/author/mattiabernini/ 1 1
+http://jobrate.net 2 2
+http://captn-crop.com/chronicle/ 1 1
+http://poisk-zakona.ru 3 3
+http://coldfilm.ru 3 3
+http://mmm-sib.com 3 3
+http://ooo-olni.ru 3 3
+http://proekt-gaz.ru 3 3
+http://minecraf-portal.ru 3 3
+http://darkoman.com 3 3
+http://www.simtree.ru 3 3
+http://vchulkah.com 3 3
+http://captn-crop.com/product/valparaiso-th-0045/ 1 1
+http://dandydiary.de/en/about/ 3 3
+http://highlandmedia.net 3 3
+http://karizha-house.ru 3 3
+http://viel.su 3 3
+http://idkredit.com 3 3
+http://dandydiary.de 2 2
+http://evehost.ru 3 3
+http://captn-crop.com 1 1
+http://dandydiary.de/dandy-diary-joko-winterscheidt-axe-black-shirt-launch-party-berlin/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+hey 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+hey 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 3 130001
+404 422 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 213
+/System/Plugins/elfinder/elfinder.html 1 -
+/ 2 http://whois.domaintools.com/mattia.io
+/admin/templates/editor/fckeditor.html 1 -
+/repository/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/w/elfinder-2.0-rc1/elfinder.html 1 -
+/library/fckeditor/editor/fckeditor.html 1 -
+/directory/edt/assetmanager/assetmanager.php 1 -
+/admin.php 1 -
+/Editor/assetmanager/assetmanager.asp 1 -
+/assets/components/elfinder/elfinder.html 1 -
+/INC/GenericDB/assetmanager/assetmanager.asp 1 -
+/admin/editor/assetmanager/assetmanager.asp 1 -
+/js/lib/elfinder/elfinder.html 1 -
+/webmail/fckeditor/editor/fckeditor.html 1 -
+/editor/editor/ 3 -
+/packages/portal/includes/js/editor/editor/assetmanager/assetmanager.php 1 -
+/system/fckeditor/editor/ 4 -
+/admin/actualites4/editor/fckeditor.html 1 -
+/ftpmanager/Editor/assetmanager/assetmanager.asp 1 -
+/media/js/plugins/elfinder2.0/elfinder.html 1 -
+/bdfiles/elfinder.html 1 -
+/finder/elfinder.html 1 -
+/novice/FCKeditor/editor/fckeditor.html 1 -
+/js/elfinder/elfinder.html 1 -
+/sysadmin/fckeditor/editor/ 2 -
+/mailing/tools/fckeditor/editor/fckeditor.html 1 -
+/resources/html_editor/ckfinder/elfinder.html 1 -
+/ckeditor/elfinder/elfinder.html 1 -
+/ckeditor/editor/ 2 -
+/sites/all/modules/elfinder/elfinder.php.html 1 -
+/elfinder/elfinder.html 1 -
+/editor/assetmanager/assetmanager.php 1 -
+/innovaeditor/assetmanager/assetmanager.php 1 -
+/blog/elfinder.html 1 -
+/js/fckeditor/editor/ 3 -
+/admin/inc/scripts/assetmanager/assetmanager.asp 1 -
+/admin/assetmanager/assetmanager.asp 1 -
+/gestion/FCKeditor/editor/fckeditor.html 1 -
+/apps/ecms/scripts/Editor/assetmanager/assetmanager.php 1 -
+/innova/assetmanager/assetmanager.asp 1 -
+/modules/tadtools/ckeditor/elFinder/elfinder.html 1 -
+/mynews/admin/editor/assetmanager/assetmanager.asp 1 -
+/resorce/admin/article/FCKeditor/editor/fckeditor.html 1 -
+/public_html/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/js/plugins/elfinder2.0/elfinder.html 1 -
+/admin/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/lib/elfinder/elfinder.html 1 -
+/editorold/editor/ 2 -
+/home/assets/js/ckfinder/elfinder.html 1 -
+/wp-login.php 6 -
+/Fckeditorold/editor/ 2 -
+/elfinder.html 1 -
+/pebble/FCKeditor/editor/fckeditor.html 1 -
+/commun/Editor/assetmanager/assetmanager.php 1 -
+/forums/chat/upload.php 1 -
+/filemanager/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/sites/all/libraries/elfinder/elfinder.html 1 -
+/filemanager/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/inc.old/GenericDB/assetmanager/assetmanager.asp 1 -
+/projects/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/editor/assetmanager/asset.asp 1 -
+/site/mambots/editors/fckeditor/fckeditor.html 1 -
+/wysiwyg/assetmanager/assetmanager.php 1 -
+/new2/admin/js/fckeditor/editor/fckeditor.html 1 -
+/assets/elfinder/elfinder.html 1 -
+/inv/assetmanager/assetmanager.php 1 -
+/edit/assetmanager/assetmanager.asp 1 -
+/wp-admin/admin-ajax.php 15 -
+/clients/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/license.txt 7 -
+/sites/all/libraries/fckeditor/fckeditor.html 1 -
+/rootadmin/assetmanager/assetmanager.php 1 -
+/Fckeditornew/editor/ 2 -
+/components/elfinder/files/elfinder.html 1 -
+/includes/fckeditor/editor/ 2 -
+/assetmanager/assetmanager.php 1 -
+/project/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/Innovastudio5.5/assetmanager/assetmanager.php 1 -
+/customers/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/adminsys/assetmanager/assetmanager.asp 1 -
+/administrator/index.php 1 -
+/BasicClass/Editor/assetmanager/assetmanager.asp 1 -
+/editor/assetmanager/assetmanager.aspx 1 -
+/admin/elfinder/elfinder.php.html 1 -
+/lib/editor3/assetmanager/assetmanager.asp 1 -
+/elfinder/elfinder.php.html 1 -
+/V2/utils/WYSEditor/editor/fckeditor.html 1 -
+/file_server/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/plugins/htmleditor2/assetmanager/assetmanager.php 1 -
+/public/elfinder/elfinder.html 1 -
+/ftp/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/web-local/fak/rj/admin/FCKeditor/editor/fckeditor.html 1 -
+/finder/elfinder.php.html 1 -
+/plugins/innova/assetmanager/assetmanager.php 1 -
+/site/modules/fckeditor/fckeditor/editor/fckeditor.html 1 -
+/themes/admin/js/plugins/elfinder/elfinder.html 1 -
+/INC/GenericDB/assetmanager/assetmanager.php 1 -
+/admin/fckeditor/editor/ 3 -
+/sitemap.xml 3 -
+/fhadmin/lib/fckeditor/editor/fckeditor.html 1 -
+/robots.txt 136 -
+/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/vendor/mihaildev/yii2-elfinder/assets/elfinder.html 1 -
+/administration/scripts/editor/assetmanager/assetmanager.php 1 -
+/admin/WYSIWYGeditor/assetmanager/assetmanager.aspx 1 -
+/files/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/lists/admin/FCKeditor/editor/fckeditor.html 1 -
+/admin/common/editor/assetmanager/assetmanager.php 1 -
+/ax/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/chat/upload.php 1 -
+/scripts/elfinder/elfinder.php.html 1 -
+/Fckeditor/editor/ 2 -
+/generator/assetmanager/assetmanager.php 1 -
+/wp-content/plugins/wysija-newsletters/css/admin.css 4 -
+/outils/fckeditor/editor/fckeditor.html 1 -
+/administration/editor/assetmanager/assetmanager.php 1 -
+/yonetim/editor/assetmanager/assetmanager.php 1 -
+/scripts/fckeditor/editor/ 2 -
+/kyoshobutiken/fc_util/Editor_5_5/assetmanager/assetmanager.php 1 -
+/beheer/editor/assetmanager/assetmanager.asp 1 -
+/assetmanager.php 1 -
+/https://www.facebook.com/vincent.vega.9847 1 -
+/en/ckfinder/elfinder.html 1 -
+/include/js/fckeditor/editor/fckeditor.html 1 -
+/plugins/editors/innova/assetmanager/assetmanager.php 1 -
+/innova-assetmanager/assetmanager.php 1 -
+/edit/elfinder/elfinder.html 1 -
+/upload/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/FILE/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/4dm1n/assets/js/ckfinder/elfinder.html 1 -
+/clientScript/InnovaStudio/assetmanager/assetmanager.aspx 1 -
+/wspro/html/js/editor/fckeditor/editor/fckeditor.html 1 -
+/templates/us/admin-panel/HTML_Editor/assetmanager/assetmanager.php 1 -
+/editor/library/editor4_2_1/assetmanager/assetmanager.php 1 -
+/admin/assetmanager/assetmanager.php 1 -
+/admin/is_editor/assetmanager/assetmanager.php 1 -
+/scripts/elfinder/elfinder.html 1 -
+/assets/lib/elfinder/elfinder.html 1 -
+/src/azelastin/assetmanager/assetmanager.php 1 -
+/webyep-system/programm/opt/fckeditor/editor/fckeditor.html 1 -
+/forum/chat/upload.php 1 -
+/include/fckeditor/editor/ 3 -
+/fileshare/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/artsconnect/newsite/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/portal/html/js/editor/fckeditor/editor/fckeditor.html 1 -
+/public/scripts/elfinder/elfinder.php.html 1 -
+/scripts/iseditor/assetmanager/assetmanager.php 1 -
+/manager/scripts/assetmanager/assetmanager.asp 1 -
+/ajax/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/diendan/media/js/fckeditor/editor/fckeditor.html 1 -
+/hegn/assetmanager/assetmanager.asp 1 -
+/cms/modules/articles/assetmanager/assetmanager.php 1 -
+/assets/lib/elfinder-2.0-rc1/elfinder.html 1 -
+/sitemanager/protected/component/InnovaStudio-Editor/Editor/assetmanager/assetmanager.php 1 -
+/docs/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/~nga/Edit0r/assetmanager/assetmanager.php 1 -
+/editor/fckeditor/editor/ 2 -
+/fckeditor/fckeditor/editor/fckeditor.html 1 -
+/Lib/editor/assetmanager/assetmanager.php 1 -
+/common/fckeditor/editor/ 3 -
+/sites/all/libraries/elfinder/elfinder.php.html 1 -
+/html/lib/elfinder/elfinder.php.html 1 -
+/inc/fckeditor/editor/ 2 -
+/diymodule/Editor/assetmanager/assetmanager.php 1 -
+/admin/assets/elfinder/elfinder.html 1 -
+/js/assetmanager/assetmanager.php 1 -
+/site/fckeditor/editor/fckeditor.html 1 -
+/.qawaka/helpers/editor/assetmanager/assetmanager.php 1 -
+/admin/panel/fckeditor/fckeditor.html 1 -
+/office/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/admin/editor/assetmanager/assetmanager.php 1 -
+/admin/templates/fckeditor/editor/fckeditor.html 1 -
+/fck/editor/ 2 -
+/assetmanager.asp 1 -
+/feng/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/xplorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/assetmanager/asset.asp 1 -
+//webalizer/ 1 -
+/gcassetmanager/assetmanager.asp 1 -
+/cms/assetmanager/assetmanager.php 1 -
+/js/elfinder/elfinder.php.html 1 -
+/beheer/novosite_editor/assetmanager/assetmanager.php 1 -
+/scripts/assetmanager/assetmanager.asp 1 -
+/explorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/fckeditor/editor/ 3 -
+/modules/fckeditor/editor/fckeditor.html 1 -
+/drupal/sites/all/libraries/elfinder/elfinder.php.html 1 -
+/fengoffice/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/manage/fckeditor/editor/ 3 -
+/edit/innoEdit/assetmanager/assetmanager.asp 1 -
+/4_demo/js/lib/elfinder/elfinder.html 1 -
+/public/js/fckeditor/editor/fckeditor.html 1 -
+/share/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/core/coreSrc/externalSrc/WYSIWYG/assetmanager/assetmanager.asp 1 -
+/EditorNEW/assetmanager/assetmanager.asp 1 -
+/include/editor/fckeditor.html 1 -
+/ajaxplorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/editor1/editor/ 2 -
+/applications/JobListingManager/components/Editor/assetmanager/assetmanager.asp 1 -
+/module-assets/admin/elfinder/elfinder.html 1 -
+/start/public/editor/assetmanager/assetmanager.php 1 -
+/var/ckeditor/elfinder/elfinder.html 1 -
+/filemanager/elfinder.html 1 -
+/index.php 15 -
+/sites/all/modules/elfinder/elfinder.html 1 -
+/core/ckeditor/plugins/elfinder/elfinder.html 1 -
+/components/elfinder/elfinder.html 1 -
+/assetmanager/assetmanager.asp 1 -
+/system/templates/modules/admin/editor/assetmanager/assetmanager.php 1 -
+/intranet/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/elfinder.php.html 1 -
+/administrator/lib/elfinder/elfinder.php.html 1 -
+/lib/elfinder/elfinder.php.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 62
+134.249.53.8 36 36 203184 20150427142220
+178.137.85.64 33 33 186252 20150427080040
+46.119.113.155 32 32 180608 20150427200121
+178.137.19.143 12 12 67728 20150430175555
+94.153.9.66 11 11 62084 20150430121440
+178.137.166.68 10 10 56440 20150430211433
+5.9.151.67 6 6 33864 20150414063456
+82.170.190.199 4 12 492372 20150426160722
+62.210.178.179 3 3 16932 20150419204249
+109.120.157.179 3 3 16932 20150424053442
+195.242.218.133 3 3 16932 20150425001806
+94.153.66.163 3 3 16932 20150429202224
+46.118.119.63 3 3 16932 20150428102243
+46.240.234.239 2 5 133498 20150420160938
+5.28.100.144 2 6 246186 20150403104243
+87.164.122.221 2 5 130829 20150403021425
+93.86.197.240 2 7 256591 20150422040617
+207.182.135.170 2 4 137050 20150408150347
+109.245.1.51 2 6 246186 20150422122733
+77.46.164.183 2 8 266996 20150430025302
+197.231.221.211 1 1 5644 20150412154347
+109.74.151.149 1 1 5644 20150410030420
+183.138.155.34 1 1 5644 20150426054232
+186.18.68.228 1 4 133498 20150415210350
+192.187.126.162 1 1 5644 20150410193706
+82.95.221.212 1 4 133498 20150422050701
+80.40.134.103 1 1 5644 20150429105602
+199.30.24.218 0 2 117449 
+52.6.55.104 1 1 5644 20150419175957
+52.4.217.48 1 1 5644 20150401032658
+173.252.108.117 0 1 115357 
+121.240.226.74 1 1 5644 20150411213651
+87.160.149.139 1 4 133498 20150415055501
+109.93.30.52 1 3 123093 20150427030812
+173.252.120.112 0 1 115357 
+92.20.78.115 1 4 133498 20150429105532
+184.152.68.156 1 4 133498 20150419163110
+220.181.156.195 1 1 5644 20150428180821
+173.208.98.123 1 1 5644 20150409140231
+81.147.133.34 1 3 123093 20150415051621
+213.153.85.54 1 3 123093 20150409184002
+78.55.236.130 1 3 123093 20150411150822
+54.183.190.29 1 1 5644 20150429054245
+66.162.42.131 1 1 5644 20150425223623
+93.62.184.211 1 4 133498 20150423092154
+217.12.206.140 1 1 5644 20150429100355
+188.217.67.52 1 4 133498 20150414115049
+66.220.152.114 0 1 115357 
+111.13.102.9 1 1 5644 20150427102932
+123.125.71.77 1 1 5644 20150413083723
+81.227.72.249 1 4 133498 20150418093754
+200.125.75.150 1 4 133498 20150426193627
+1.174.246.140 1 4 133498 20150430111956
+88.65.136.68 1 3 123093 20150414101541
+69.58.178.59 1 1 5644 20150411084751
+178.94.172.242 1 1 5644 20150407111357
+78.55.26.73 1 4 133498 20150410171457
+90.199.97.163 1 4 133498 20150422040221
+91.141.2.66 1 4 133498 20150420175828
+180.76.4.11 1 1 5644 20150418044245
+61.135.190.103 1 1 5644 20150430055944
+87.178.242.234 1 3 123093 20150401004912
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20150401 2 4 128737 2
+20150402 1 1 5644 1
+20150403 4 11 377015 3
+20150404 0 1 115357 0
+20150405 1 1 5644 1
+20150407 1 1 5644 1
+20150408 3 5 142694 2
+20150409 2 4 128737 2
+20150410 5 8 156074 5
+20150411 3 5 134381 3
+20150412 2 2 11288 2
+20150413 2 2 11288 2
+20150414 3 8 262235 3
+20150415 3 13 507538 3
+20150417 1 1 5644 1
+20150418 2 5 139142 2
+20150419 15 18 212514 7
+20150420 15 24 462578 6
+20150421 12 12 67728 3
+20150422 13 25 681427 8
+20150423 5 8 156074 3
+20150424 23 23 129812 6
+20150425 17 21 330846 7
+20150426 7 14 402260 5
+20150427 23 25 247261 7
+20150428 11 11 62084 5
+20150429 16 22 346012 9
+20150430 19 27 593658 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 2
+0s-30s 105
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 211 1185240 107 107
+END_SIDER

@@ -1,0 +1,933 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201505 will be lost/reset.
+# Last config file used to build this data file was /home/mattpchx/tmp/awstats/awstats.mattia.io.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2003                
+POS_TIME 2680                
+POS_VISITOR 27717               
+POS_DAY 31711               
+POS_DOMAIN 3455                
+POS_LOGIN 4036                
+POS_ROBOT 4191                
+POS_WORMS 4644                
+POS_EMAILSENDER 4775                
+POS_EMAILRECEIVER 4918                
+POS_SESSION 32500               
+POS_SIDER 32689               
+POS_FILETYPES 5053                
+POS_DOWNLOADS 5175                
+POS_OS 5223                
+POS_BROWSER 5441                
+POS_SCREENSIZE 6341                
+POS_UNKNOWNREFERER 6415                
+POS_UNKNOWNREFERERBROWSER 6881                
+POS_ORIGIN 7100                
+POS_SEREFERRALS 7240                
+POS_PAGEREFS 7409                
+POS_SEARCHWORDS 10632               
+POS_KEYWORDS 10807               
+POS_MISC 2344                
+POS_ERRORS 10889               
+POS_CLUSTER 3892                
+POS_SIDER_404 10985               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150601024632 16 2534 9644892387439
+FirstTime 20150501045708
+LastTime 20150531202543
+LastUpdate 20150601085018 16 0 15 0 0
+TotalVisits 206                 
+TotalUnique 95                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 102                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 12 67728 7 10 13380
+1 13 13 73372 8 11 11288
+2 16 19 218158 30 34 22576
+3 15 25 470314 8 13 16932
+4 21 30 598725 3 4 11288
+5 26 31 392047 30 34 28220
+6 29 36 526428 10 22 45784
+7 37 49 720244 12 25 38391
+8 12 19 543745 8 14 39508
+9 9 26 807515 19 168 24668
+10 19 27 488706 21 26 24668
+11 19 33 744414 45 58 45784
+12 35 47 708956 11 16 13380
+13 27 30 280242 16 21 16932
+14 8 14 295216 13 19 43692
+15 20 25 366496 20 30 24668
+16 16 25 473866 4 5 5644
+17 17 22 335607 6 8 11288
+18 24 34 626062 13 19 32404
+19 27 30 280242 17 24 30312
+20 35 39 440751 20 27 11288
+21 15 15 84660 126 133 51428
+22 23 23 129812 21 30 32404
+23 25 25 141100 4 7 132289
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 26
+ua 389 389 2195516
+cn 26 26 135456
+us 14 30 1035234
+de 14 49 1699498
+rs 12 45 1570761
+ru 9 9 50796
+ro 5 15 648717
+gb 5 20 667490
+sa 4 7 150430
+nl 4 10 278284
+it 3 10 274732
+ba 1 4 133498
+au 1 4 133498
+fr 1 1 5644
+ch 1 4 133498
+at 1 4 133498
+eu 1 1 5644
+mu 1 1 5644
+me 1 4 133498
+al 1 4 133498
+by 1 1 5644
+fi 1 1 5644
+lt 1 1 5644
+se 1 4 133498
+hr 1 4 133498
+lu 1 1 5644
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+googlebot 62 281176 20150531093014 0
+bot[\s_+:,\.\;\/\\-] 45 222208 20150531035949 0
+spider 35 25011 20150530173831 0
+slurp 27 39312 20150530082653 0
+no_user_agent 2 11288 20150523055854 0
+robot 2 121001 20150529040142 0
+crawl 2 11288 20150510075602 0
+ia_archiver 1 5644 20150510100415 0
+netcraft 1 5644 20150506233758 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+css 51 106692 0 0
+png 98 6897002 0 0
+html 500 2810712 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 18
+linuxandroid 35
+winlong 7
+winxp 239
+win2000 63
+winvista 18
+winunknown 2
+win95 18
+win2003 9
+unix 3
+java 12
+winnt 22
+win98 9
+linux 2
+win7 60
+win16 9
+macosx 106
+winme 18
+Unknown 17
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 56
+safari7.0 6
+msie6.0 197
+chrome38.0.2125.104 2
+android 15
+chrome28.0.1500.94 4
+msie4.01 6
+firefox18.0 2
+opera9.00 20
+lynx 1
+chrome42.0.2311.111 4
+safari8.0.6 4
+opera9.80 1
+chrome33.0.0.0 4
+msie8.0 4
+iphone 5
+netscape4.76 6
+chrome33.0.1734.5 4
+chrome43.0.2357.81 11
+firefox6.0.2 2
+chrome42.0.2311.90 4
+chrome21.0.1180.79 1
+msie7.0 16
+chrome37.0.2062.120 1
+msie2.0 18
+safari8.0 9
+msie5.0 9
+chrome42.0.2311.152 15
+opera9.0 9
+opera7.54 6
+Unknown 14
+chrome43.0.2357.65 4
+netscape 2
+chrome30.0.0.0 4
+netscape4.61 3
+firefox40.0 4
+safari8.0.5 8
+chrome37.0.2049.0 1
+opera8.00 6
+samsung 4
+opera9.01 3
+firefox38.0 8
+msie5.5 46
+chrome28.0.1500.71 1
+netscape0.6 2
+chrome36.0.1985.143 14
+mozilla 61
+firefox37.0 12
+chrome42.0.2311.135 44
+firefox14.0.1 1
+safari10.3.1.2576 4
+firefox6.0 2
+safari5.1.9 4
+chrome41.0.2228.0 1
+safari8.0.3 4
+chrome40.0.2214.93 3
+safari 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla 20150514083341
+Mozilla/5.0_(compatible;_PageAnalyzer/1.5;) 20150531113548
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20150517173537
+nutch-1.4/Nutch-1.4 20150513133545
+Mozilla/5.0_(compatible;_Add_Catalog/2.1;) 20150531202543
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.1.2576_Mobile_Safari/537.35_ 20150515163042
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+nutch-1.4/Nutch-1.4 20150513133545
+Airmail_2.0.3_rv:286_(Macintosh;_Mac_OS_X_10.10.3;_en_NL) 20150527073633
+Java/1.6.0_04 20150529155835
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 53 74
+From1 0 0
+From2 27 27
+From3 419 419
+From4 1 129
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 11 11
+baidu 16 16
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 103
+http://detskie-konstruktory.ru 13 13
+http://escort-russian.com 10 10
+http://www.dailyinspiration.nl/resonate-2015-for-those-of-you-who-couldnt-attend/ 10 10
+http://ooo-olni.ru 9 9
+http://pozdravleniya-c.ru 9 9
+http://www.qwesa.ru 9 9
+http://avkzarabotok.info 9 9
+http://viel.su 9 9
+http://idkredit.com 9 9
+http://kinonew-online.net 9 9
+http://electronicmuz.ru 6 6
+http://www.uasb.ru 6 6
+http://red-chair.net 6 6
+http://handicapvantoday.com 6 6
+http://alfa-pechati.ru 6 6
+http://0n-line.tv 6 6
+http://mini.afora.ru 6 6
+https://blue-square.biz 6 6
+http://prointer.net.ua 6 6
+http://highlandmedia.net 6 6
+http://boleznikogi.com 6 6
+http://www.artparquet.ru 6 6
+http://eurosamodelki.ru 6 6
+http://urth.ru 6 6
+http://jobrate.net 6 6
+http://aruplighting.com 4 4
+http://shop-electron.ru 3 3
+http://www.bogema-hotel.ru 3 3
+http://emerald-anapa.ru 3 3
+http://waplocator.com 3 3
+http://www.amt-k.ru 3 3
+http://dandydiary.de/it-boy-fashion-manager-und-neuer-lagerfeld-die-ueberhoehung-des-justin-oshea-im-spiegel/ 1 1
+http://tedxrj.com 3 3
+http://brianjeanmp.net 2 2
+http://igru-xbox.net 3 3
+http://www.moyakuhnia.ru 5 5
+http://baladur.ru 5 5
+http://diyportal.ru 3 3
+http://online-hit.info 3 3
+http://autofore.ru 3 3
+http://codysbbq.com 3 3
+http://chelnytruck.ru 3 3
+http://viktoria-center.ru 2 2
+http://xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai 3 3
+http://girlporn.ru 3 3
+http://altermix.ua 2 2
+http://steelbuildings.com.ua 5 5
+http://howopen.ru 3 3
+http://cs-2014.su 3 3
+http://iphone6-mobile.com 3 3
+http://bmw.afora.ru 2 2
+http://sfa-pump.ru 3 3
+http://elmifarhangi.com 1 1
+http://www.to2ko.ru 3 3
+http://brothers-smaller.ru 2 2
+http://euromasterclass.ru 3 3
+http://xn--80adaggc5bdhlfamsfdij4p7b.xn--p1ai 3 3
+http://solnplast.ru 3 3
+http://captn-crop.com 2 2
+http://prointer.net.ua 3 3
+http://dandydiary.de/dandy-diary-festival-looks/ 1 1
+http://bizru.info 3 3
+http://aviva-limoux.com 3 3
+http://www.simtree.ru 3 3
+http://hvd-store.com 1 1
+http://producm.ru 3 3
+http://allknow.info 3 3
+http://filmetricsasia.com 3 3
+http://niki-mlt.ru 3 3
+http://solnplast.ru 3 3
+http://vipsiterip.com 3 3
+https://www.facebook.com 2 2
+http://doska-vsem.ru 3 3
+http://captn-crop.com/product/bp-16-copy/ 1 1
+http://seo-smm.kz 3 3
+http://dandydiary.de/en/dandy-diary-berlin-fashion-week-opening-race-live-scooter/ 1 1
+http://forsex.info 3 3
+http://bluerobot.info/nw2/bryrodafejonuly 1 1
+http://kino-fun.ru 3 3
+http://filmetricsasia.com 3 3
+http://www.oknosite.ru 3 3
+http://www.dailyinspiration.nl/author/mattiabernini/ 1 1
+http://gormonrosta.biz 3 3
+http://wheelchairlifttoday.com 3 3
+http://www.arendakvartir.kz 6 6
+http://www.ispaniya-costa-blanca.ru 5 5
+http://pornogig.com 6 6
+http://ecomp3.ru 1 1
+http://proekt-gaz.ru 3 3
+http://mini.7zap.com 6 6
+http://magazinlab.ru 3 3
+http://sololift-grundfos.ru 3 3
+http://www.steelmaster.lv 2 2
+http://www.new-square.su 3 3
+http://vchulkah.com 5 5
+http://sexreliz.com 3 3
+http://vip-siterip.org 3 3
+http://xn--90acenikpebbdd4f6d.xn--p1ai 2 2
+http://zoneg.ru 6 6
+http://www.slkrm.ru 3 3
+http://dandydiary.de 1 1
+http://ozas.net 5 5
+http://alpharma.net 6 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+hey 16
+www.mattia.io 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+hey 16
+www.mattia.io 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 1 5644
+404 577 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 345
+/ijrps/siteadmin/lib/plupload/examples/upload.php 1 -
+/dadamail/dada/extras/packages/kcfinder/js/helper.js 1 -
+/admin.php 2 -
+/server/php/index.php/ 1 -
+/media/vendor/plupload/examples/upload.php 1 -
+/jquery_files/server/php/index.php 1 -
+/wms_admin/upload_simple/uploadTester.asp 1 -
+/administration/assets/global/jquery-file-upload/server/php/index.php 1 -
+/ijrls/siteadmin/lib/plupload/examples/upload.php 1 -
+/lime/third_party/kcfinder/js/helper.js 1 -
+/skin/frontend/default/puffininn/admin/global/plugins/upload.php 1 -
+/wp-content/plugins/peugeot-music-plugin/js/plupload/examples/upload.php 1 -
+/shared/mailshot/ckeditor/kcfinder/js/helper.js 1 -
+/ThirdParty/kcfinder-2.51/js/helper.js 1 -
+/app/webroot/js/kcfinder/js/helper.js 1 -
+/share/scripts/kcfinder-2.51/js/helper.js 1 -
+/sysadmin/fckeditor/editor/ 1 -
+/modules/plupload/examples/upload.php 1 -
+/survey/third_party/kcfinder/js/helper.js 1 -
+/ckeditor/editor/ 1 -
+/back/js/lib/plupload/examples/upload.php 1 -
+/FileUploads/uploadTester.asp 1 -
+/system/ext/kcfinder/js/helper.js 1 -
+/k2work/libs.js/plupload/examples/upload.php 1 -
+/admin/kcfinder/public/js/kcfinder/js/helper.js 1 -
+/applications/admin/lib/kcfinder/js/helper.js 1 -
+/resource/js/kcfinder/js/helper.js 1 -
+/app/webroot/kcfinder/js/helper.js 1 -
+/panel/kcfinder/views/default/js/kcfinder/js/helper.js 1 -
+/public/styles/admin/lib/plupload/examples/upload.php 1 -
+/assets/newadmin/plugins/jquery-file-upload/server/php/index.php 1 -
+/sistema/common/theme/scripts/plugins/forms/plupload/examples/upload.php 1 -
+/tinymce/kcfinder/js/helper.js 1 -
+/editorold/editor/ 1 -
+/Fckeditorold/editor/ 1 -
+/wp-login.php 8 -
+/includes/modules/KCFinder/js/helper.js 1 -
+/member/isshin-jyuken/user/kcfinder/js/helper.js 1 -
+/ContentUpload/admin/freeASPUpload/uploadTester.asp 1 -
+/sigma/admin/theme/scripts/plugins/forms/plupload/examples/upload.php 1 -
+/design/_js_libs/ckeditor/kcfinder/js/helper.js 1 -
+/image_articles/kcfinder/js/helper.js 1 -
+/https://ello.co/mattia-io 4 -
+/admin/kcfinder/js/helper.js 1 -
+/nam/uploadTester.asp 1 -
+/admincp/scripts/plupload/examples/upload.php 1 -
+/public/admin/js/plugins/plupload/examples/upload.php 1 -
+/Fckeditornew/editor/ 1 -
+/public/default/resources/js/plugins/ckeditor/plugins/js/helper.js 1 -
+/kj/uploadTester.asp 1 -
+/js/lib/plupload/examples/upload.php 1 -
+/js/admin/kcfinder/js/helper.js 1 -
+/includes/fckeditor/editor/ 1 -
+/mpesa/theme/scripts/plupload/examples/upload.php 1 -
+/theme/common/theme/scripts/plugins/forms/plupload/examples/upload.php 1 -
+/vi/public/plugins/plupload/examples/upload.php 1 -
+/Admin/Pages/banner/kcfinder/js/helper.js 1 -
+/Jobs/system/ext/kcfinder/js/helper.js 1 -
+/manifestampe_safe/web/bundles/manifestampeweb/kcfinder/js/helper.js 1 -
+/sites/all/libraries/examples/upload.php 1 -
+/publication/kcfinder/js/helper.js 1 -
+/public/backend/lib/kcfinder/js/helper.js 1 -
+/core/js/kcfinder/js/helper.js 1 -
+/dev/bholaday/uploadTester.asp 1 -
+/Public/Client/js/lib/plupload/examples/upload.php 1 -
+/betikler/plupload/examples/upload.php 1 -
+/extranet/theme/scripts/plupload/examples/upload.php 1 -
+/modules/system/kcfinder/js/helper.js 1 -
+/assets/kcfinder/js/helper.js 1 -
+/webroot/js/kcfinder/js/helper.js 1 -
+/forms/third_party/kcfinder/js/helper.js 1 -
+/theme/scripts/plupload/examples/upload.php 1 -
+/admin/fckeditor/editor/ 5 -
+/safe-job.ru/www/js/kcfinder/js/helper.js 1 -
+/robots.txt 99 -
+/member/user/kcfinder/js/helper.js 1 -
+/Includes/Advertiser/uploadTester.asp 1 -
+/plupload/examples/upload.php 1 -
+/sites/all/libraries/openwysiwyg/addons/imagelibrary/insert_image.php 1 -
+/jurnal2/public/admin/assets/lib/plupload/examples/upload.php 1 -
+/Public/User/js/lib/plupload/examples/upload.php 1 -
+/newibf/sites/all/libraries/plupload/examples/upload.php 1 -
+/support/uploadTester.asp 1 -
+/mammie/plupload/examples/upload.php 1 -
+/lib/js/plupload/examples/upload.php 1 -
+/extensions/kcfinder/js/helper.js 1 -
+/modules/FileManager/js/jquery-file-upload/server/php/index.php 1 -
+/quimpl/public/admin/_ui/theme/scripts/plugins/forms/plupload/examples/upload.php 1 -
+/public/wysiwyg_editor/kcfinder/js/helper.js 1 -
+/scripts/fckeditor/editor/ 1 -
+/mailhive/common/js/kcfinder/js/helper.js 1 -
+/themes/admin/js/kcfinder/js/helper.js 1 -
+/assets/theme/scripts/plugins/forms/plupload/examples/upload.php 1 -
+/vendor/kcfinder/js/helper.js 1 -
+/https://www.facebook.com/vincent.vega.9847 4 -
+/includes/plugins/KCFinder/js/helper.js 1 -
+/condoleance/dada/extras/packages/kcfinder/js/helper.js 1 -
+/corkscrew/ckeditor/phplist-plugin-ckeditor-master/plugins/CKEditorPlugin/kcfinder/js/helper.js 1 -
+/login/plupload/examples/upload.php 1 -
+/admin/jquery-file-upload/server/php/index.php 1 -
+/vtigercrm/kcfinder/js/helper.js 1 -
+/web_content/javascript/plupload/examples/upload.php 1 -
+/upload/styles/cb_27/theme/js/plupload/examples/upload.php 1 -
+/jquery/plupload/examples/upload.php 1 -
+/assets/themes/bootstrap/plugins/ckeditor/plugins/kcfinder/js/helper.js 1 -
+/include/fckeditor/editor/ 5 -
+/admin/ckeditor/kcfinder/js/helper.js 1 -
+/scmanagementside/js/lib/plupload/examples/upload.php 1 -
+/gruponesfunciona.com/vtiger/kcfinder/js/helper.js 1 -
+/fortbildning/test/uploadTester.asp 1 -
+/assets/plugins/plupload/examples/upload.php 1 -
+/jelix/plupload/examples/upload.php 1 -
+/assets/admin/jquery-file-upload/server/php/index.php 1 -
+/system/kcfinder/js/helper.js 1 -
+/decalthewalls/mail/dada/extras/packages/kcfinder/js/helper.js 1 -
+/admin/wisiwyg/kcfinder/js/helper.js 1 -
+/mailing/email/extras/packages/kcfinder/DadaMail/dada_mail_support_files/kcfinder/js/helper.js 1 -
+/themes/lib/plupload/examples/upload.php 1 -
+/common/theme/scripts/plugins/forms/plupload/examples/upload.php 1 -
+/storage/kcfinder/js/helper.js 1 -
+/_site_files/editor/kcfinder/js/helper.js 1 -
+/sites/all/modules/openwysiwyg/addons/imagelibrary/insert_image.php 1 -
+/modifications/kcfinder/js/helper.js 1 -
+/apple-touch-icon.png 1 -
+/lib/avamac-lib/avamac-www/kcfinder/js/helper.js 1 -
+/inc/fckeditor/editor/ 1 -
+/pastel/library/kcfinder/v2.21/js/helper.js 1 -
+/sistema/assets/plupload/examples/upload.php 1 -
+/_library/_admin/lib/plupload/examples/upload.php 1 -
+/public/js/plupload/examples/upload.php 1 -
+/siteadmin/lib/plupload/examples/upload.php 1 -
+/_core/components/ckeditor/plugins/kcfinder/js/helper.js 1 -
+/res/scripts/plupload-1.4.3.2/examples/upload.php 1 -
+/misc/kcfinder/js/helper.js 1 -
+/public/plugin/kcfinder/js/helper.js 1 -
+/sites/all/modules/plupload/plupload/examples/upload.php 1 -
+/super_admin/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/admin/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/assets/common/plupload-old/examples/upload.php 1 -
+/js/packages/plupload/2.1.2/original/examples/upload.php 1 -
+/public/kcfinder/js/helper.js 1 -
+/metis/assets/lib/plupload/examples/upload.php 1 -
+/ask/admin/theme/scripts/plupload/examples/upload.php 1 -
+/lib/js/kcfinder/js/helper.js 1 -
+/wp-content/plugins/the-viddler-wordpress-plugin/js/plupload/examples/upload.php 1 -
+/fckeditor/editor/ 5 -
+/manage/fckeditor/editor/ 5 -
+/sites/all/libraries/plupload/examples/upload.php 1 -
+/editor1/editor/ 1 -
+/public/scripts/ckeditor/kcfinder/js/helper.js 1 -
+/www3/assets/js/ckeditor/kcfinder/js/helper.js 1 -
+/ASP/dropbox/uploadTester.asp 1 -
+/appto/public/plugins/plupload/examples/upload.php 1 -
+/assets/js/kcfinder/js/helper.js 1 -
+/adriana/public/packages/kcfinder/js/helper.js 1 -
+/styles/cb_27/theme/js/plupload/examples/upload.php 1 -
+/static/theme/scripts/plugins/forms/plupload/examples/upload.php 1 -
+/artim_media/plupload/js/plupload/examples/upload.php 1 -
+/admin/includes/plupload/examples/upload.php 1 -
+/sites/all/libraries/kcfinder/js/helper.js 1 -
+/admin/includes/plupload_/examples/upload.php 1 -
+/shared/includes/javascript/kcfinder/js/helper.js 1 -
+/cfmnl.com/assets/lib/uploader/server/php/index.php 1 -
+/https://readymag.com/u52515022/28390 4 -
+/phprs/ckeditor/plugins/kcfinder/js/helper.js 1 -
+/ 3 http://whois.domaintools.com/mattia.io
+/html/admin/lib/plupload/examples/upload.php 1 -
+/demo/uploadTester.asp 1 -
+/eng/old/eeu/pefaa/main/administrator/components/js/helper.js 1 -
+/management/files/yoweca/theme/scripts/plugins/forms/plupload/examples/upload.php 1 -
+/lib/plupload/examples/upload.php 1 -
+/demos/capetravel/lib/plupload/examples/upload.php 1 -
+/holita/kcfinder/js/helper.js 1 -
+/app/webroot/js/ckeditor/kcfinder/js/helper.js 1 -
+/_common/site/js/plupload/examples/upload.php 1 -
+/app/webroot/js/fckeditor/kcfinder/js/helper.js 1 -
+/templates/_editor/kcfinder/js/helper.js 1 -
+/wp-content/plugins/civicrm/civicrm/packages/kcfinder/js/helper.js 1 -
+/editor/editor/ 5 -
+/registrasi/static/js/kcfinder/js/helper.js 1 -
+/system/fckeditor/editor/ 2 -
+/rcapp/assets/theme/scripts/plupload/examples/upload.php 1 -
+/previous/libraries/plupload/examples/upload.php 1 -
+/baze/inc/js/upload/examples/upload.php 1 -
+/css/theme/scripts/plugins/forms/plupload/examples/upload.php 1 -
+/demo/geboadmin/geboadmin/themeforest/upload.php 1 -
+/gebo/lib/plupload/examples/upload.php 1 -
+/js/fckeditor/editor/ 5 -
+/module-assets/admin/plupload/examples/upload.php 1 -
+/layout/painel/lib/plupload/examples/upload.php 1 -
+/resimler/apt-014/uploadTester.asp 1 -
+/infiniti/adminpanel/kcfinder/js/helper.js 1 -
+/IMAGES/jquery-file-upload/9.5.6/server/php/index.php 1 -
+/js/kcfinder/js/helper.js 1 -
+/site/assets/global/plugins/plupload/examples/upload.php 1 -
+/asp/freeupload/uploadTester.asp 1 -
+/js/ckeditor/kcfinder/js/helper.js 1 -
+/plugins/kcfinder/js/helper.js 1 -
+/Polls/lime/third_party/kcfinder/js/helper.js 1 -
+/bo/produtos/server/php/index.php 1 -
+/modules/tadtools/fckeditor/editor/kcfinder/js/helper.js 1 -
+/js/upload/examples/upload.php 1 -
+/blog/wp-content/plugins/ckeditor-for-wordpress/ckeditor/kcfinder/js/helper.js 1 -
+/gestor/public/plugins/ckeditor/plugins/kcfinder-2.51/js/helper.js 1 -
+/member/teamodagiri/user/kcfinder/js/helper.js 1 -
+/web/admin/kcfinder/js/helper.js 1 -
+/openafriki-newlook/profiles/openpublish/libraries/plupload/examples/upload.php 1 -
+/shift/static/uploaders/plupload/examples/upload.php 1 -
+/DoctorDirectory/client/js/ckeditor/kcfinder/js/helper.js 1 -
+/demo/assets/plugins/plupload/examples/upload.php 1 -
+/assets/comptempl/vendor/kcfinder-2.51/js/helper.js 1 -
+ftp://ftp2.piotrkosoft.net/pub/mirrors/php.net/manual/upload.php 1 -
+/admin-panel/vendor/kcfinder/js/helper.js 1 -
+/js/plupload/examples/upload.php 1 -
+/main/inc/lib/ckeditor/kcfinder/js/helper.js 1 -
+/yonetim/kcfinder/assets/jscripts/kcfinder/js/helper.js 1 -
+/js/plupload/2.1.2/plupload/examples/upload.php 1 -
+/eng/old/eeu/pefaa/main/administrator/components/com_civicrm/civicrm/packages/kcfinder/js/helper.js 1 -
+/wp-content/plugins/malapascua-agency/js/plupload/examples/upload.php 1 -
+/FreeASPUpload/uploadTester.asp 1 -
+/assets/admin/ckeditor/kcfinder/js/helper.js 1 -
+/nbcpl/kcfinder/js/helper.js 1 -
+/jurnal_1/public/admin/assets/lib/plupload/examples/upload.php 1 -
+/js/ckeditor/plugins/kcfinder/js/helper.js 1 -
+/design/_js_libs/ckeditor/kcfinder/backsite/js/kcfinder/js/helper.js 1 -
+/scripts/kcfinder/js/helper.js 1 -
+/plupload/2.1.2/examples/upload.php 1 -
+/wp-admin/admin-ajax.php 35 -
+/media/kcfinder/kcfinder/js/helper.js 1 -
+/server/php/index.php 1 -
+/public/admin/lib/plupload/examples/upload.php 1 -
+/dada_mail_support_files/kcfinder/js/helper.js 1 -
+/https://www.youtube.com/watch 4 -
+/includes/libs/kcfinder/js/helper.js 1 -
+/boot/server/php/index.php 1 -
+/public/kcfinder/codes/admin/kcfinder/js/helper.js 1 -
+/test/operator/UploadFile/uploadTester.asp 1 -
+/admin/uploadTester.asp 1 -
+/aproweb/Admin/uploadTester.asp 1 -
+/https://www.behance.net/visualaddicted 4 -
+/library/ckeditor/plugins/kcfinder/js/helper.js 1 -
+/ceprtools/freeASPUpload/uploadTester.asp 1 -
+/public/admin/assets/lib/plupload/examples/upload.php 1 -
+/tools/kcfinder/js/helper.js 1 -
+/public/kcfinder-2.51/js/helper.js 1 -
+/fwx/vb/upload/freeaspupload/uploadTester.asp 1 -
+/email/extras/packages/kcfinder/js/helper.js 1 -
+/xelcms/fckeditor/kcfinder/js/helper.js 1 -
+/_js/kcfinder/js/helper.js 1 -
+/bcertonline/templates/theme/scripts/plugins/forms/plupload/examples/upload.php 1 -
+/administrator/index.php 4 -
+/uploadTester.asp 1 -
+/renben-nursing.com/kcfinder/js/helper.js 1 -
+/cke/kcfinder/js/helper.js 1 -
+/modules/ritzuploader/tpl/plupload/examples/upload.php 1 -
+/external_modules/filemanage/kcfinder/js/helper.js 1 -
+/meandre/js/kcfinder/js/helper.js 1 -
+/management/files/yoweca/theme/scripts/plugins/upload.php 1 -
+/ncda-mail/dada_mail_support_files/kcfinder/js/helper.js 1 -
+/gekosale/design/_js_libs/ckeditor/kcfinder/js/helper.js 1 -
+/crm/kcfinder/js/helper.js 1 -
+/sitemap.xml 1 -
+/student/lib/plupload/examples/upload.php 1 -
+/Picload/uploadTester.asp 1 -
+/user 1 -
+/examples/upload.php 1 -
+/upload/uploadTester.asp 1 -
+/assets/global/plugins/plupload/examples/upload.php 1 -
+/sklep/design/_js_libs/ckeditor/kcfinder/js/helper.js 1 -
+/durvizcrm/kcfinder/js/helper.js 1 -
+/Fckeditor/editor/ 1 -
+/Public/System/js/lib/plupload/examples/upload.php 1 -
+/painel/public/upload/server/php/index.php 1 -
+/manifestampe_safe/src/Manifestampe/WebBundle/Resources/public/kcfinder/js/helper.js 1 -
+/data/plugins/kcfinder/js/helper.js 1 -
+/winky.in/mail/extras/packages/kcfinder/js/helper.js 1 -
+/adm/classes/fileupload/server/php/index.php 1 -
+/softs/server/php/index.php 1 -
+/scripts/kcfinder-2.51/js/helper.js 1 -
+/eeclub/uploadTester.asp 1 -
+/assets/plupload/examples/upload.php 1 -
+/imedteste/javascript/components/plupload/examples/upload.php 1 -
+/member/oonohousing/user/kcfinder/js/helper.js 1 -
+/levimccollum/uploadtester.asp 1 -
+/admin/lib/plupload/examples/upload.php 1 -
+/admin/include/uploadTester.asp 1 -
+/assets/javascript/kcfinder/js/helper.js 1 -
+/https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js 4 -
+/Test/Upload/uploadTester.asp 1 -
+/ergo2/php/common/theme/scripts/plugins/forms/plupload/examples/upload.php 1 -
+/yutorial/media/js/plupload/examples/upload.php 1 -
+/assets/lib/plupload/examples/upload.php 1 -
+/inc/kcfinder/js/helper.js 1 -
+/lib/kcfinder-2.21/js/helper.js 1 -
+/admin/js/jquery-file-upload/server/php/index.php 1 -
+/imgup/server/php/index.php 1 -
+/ASPupload/uploadTester.asp 1 -
+/flat-kit/common/theme/scripts/plugins/forms/upload.php 1 -
+/design/wordofgod/jsc/kcfinder-2.51/components/html_editor/ckeditor/plugins/kcfinder/js/helper.js 1 -
+/admin/theme/scripts/plugins/forms/plupload/examples/upload.php 1 -
+/assets/components/dw_jQuery/js/plupload/examples/upload.php 1 -
+/dada/extras/packages/kcfinder/js/helper.js 1 -
+/lib/frontend.wysiwyg-editor/kcfinder/kcfinder-2.54/js/helper.js 1 -
+/old/tests/tumdizin/adevirtu/conarroz/admin/scripts/kcfinder/js/helper.js 1 -
+/documents/staff/ee/server/php/index.php 1 -
+/kcfinder/js/helper.js 1 -
+/_admin/server/php/index.php 1 -
+/editor/fckeditor/editor/ 1 -
+/_assets/kcfinder/js/helper.js 1 -
+/editor/kcfinder/js/helper.js 1 -
+/common/fckeditor/editor/ 5 -
+/sell/excess/uploadTester.asp 1 -
+/https://twitter.com/visualaddicted_ 4 -
+/old/tests/tumdizin/adevirtu/conarroz/admin/scripts/js/helper.js 1 -
+/upload/server/php/index.php 1 -
+/smp/vendor/webvimark/ckeditor/assets/kcfinder/js/helper.js 1 -
+/ckeditor/kcfinder/js/helper.js 1 -
+/rbptest/script/kcfinder/js/helper.js 1 -
+/website/server/php/index.php 1 -
+/public/lib/plupload/examples/upload.php 1 -
+/fck/editor/ 1 -
+/truni/e-book_15/kcfinder/js/helper.js 1 -
+/archive/sites/all/libraries/plupload/examples/upload.php 1 -
+/site/js/kcfinder/js/helper.js 1 -
+/admin/inc/ckeditor/kcfinder/master/kcfinder/js/helper.js 1 -
+/pub/plupload/examples/upload.php 1 -
+/js/filemanager/plupload/examples/upload.php 1 -
+/asset/kcfinder/js/helper.js 1 -
+/coisas/testeAdmin/admin/editor/kcfinder/js/helper.js 1 -
+/flat-kit/common/theme/scripts/plugins/forms/plupload/examples/upload.php 1 -
+/site/public/javascripts/plupload/examples/upload.php 1 -
+/sistema/common/theme/scripts/plugins/forms/upload.php 1 -
+/administration/kcfinder-2.51/js/helper.js 1 -
+/assets/admin/lib/plupload/examples/upload.php 1 -
+/WeBid/inc/plupload/examples/upload.php 1 -
+/static/kcfinder/js/helper.js 1 -
+/templates/defaut/js/plupload/examples/upload.php 1 -
+/cadastro/uploadTester.asp 1 -
+/index.php 35 -
+/asset/webadmin/js/kcfinder/js/helper.js 1 -
+/ckeditor/plugins/kcfinder-2.54/js/helper.js 1 -
+/assets/ckeditor/kcfinder/js/helper.js 1 -
+/adminer/kcfinder/js/helper.js 1 -
+/https://vimeo.com/102517030 4 -
+/metronic/metronic/assets/global/plugins/plupload/examples/upload.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 102
+178.137.19.143 80 80 451520 20150523120235
+94.153.9.66 78 78 440232 20150523024334
+178.137.166.68 60 60 338640 20150521183548
+37.115.185.94 51 51 287844 20150531195646
+94.153.9.220 44 44 248336 20150530005431
+94.153.10.249 42 42 237048 20150531125824
+46.118.239.173 15 15 84660 20150531034132
+195.242.218.133 12 12 67728 20150522192827
+109.120.157.179 6 6 33864 20150531202543
+192.187.126.162 4 4 22576 20150529091120
+61.135.190.102 4 4 22576 20150517235943
+77.46.164.183 4 14 513182 20150515101956
+94.153.67.72 3 3 16932 20150519132052
+37.139.52.23 3 3 16932 20150512180432
+94.153.66.163 3 3 16932 20150502112303
+79.116.29.69 3 9 394218 20150519114437
+61.135.190.103 3 3 16932 20150529110100
+61.135.190.224 3 3 16932 20150528012909
+61.135.190.219 2 2 11288 20150518131431
+50.116.28.80 2 2 11288 20150528095204
+64.233.172.205 2 3 126645 20150501045824
+24.135.5.166 2 7 256591 20150516173414
+5.189.144.124 2 2 11288 20150531113548
+61.135.190.105 1 1 5644 20150502150339
+92.225.56.27 1 4 133498 20150529082054
+92.111.136.87 1 4 133498 20150502092459
+123.125.71.102 1 1 5644 20150501185103
+85.179.146.222 1 4 133498 20150525192242
+66.249.81.194 1 1 5644 20150527073633
+109.245.159.135 1 4 133498 20150521111240
+95.233.24.229 1 2 7736 20150524030802
+78.52.65.238 1 4 133498 20150528184124
+91.119.63.100 1 4 133498 20150504025104
+199.30.25.88 0 2 117449 
+54.244.119.38 1 3 123093 20150510170443
+46.165.221.166 1 1 5644 20150513043659
+85.181.99.201 1 3 123093 20150529182615
+46.33.216.90 1 4 133498 20150502160942
+82.82.40.65 1 4 133498 20150531052614
+77.22.231.206 1 3 123093 20150525060039
+106.68.120.186 1 4 133498 20150510113328
+178.8.142.73 1 4 133498 20150527070544
+37.213.196.197 1 1 5644 20150518131026
+192.99.12.99 1 1 5644 20150523231417
+80.82.65.82 1 1 5644 20150525173904
+180.149.143.137 1 1 0 20150530173657
+37.227.180.238 1 4 133498 20150508070430
+62.210.178.179 1 1 5644 20150503221741
+180.149.143.145 1 1 0 20150529145859
+60.191.192.227 1 1 5644 20150501144417
+108.27.70.172 1 4 133498 20150513143257
+91.44.70.116 1 4 133498 20150512093750
+123.125.71.104 1 1 5644 20150519065916
+92.24.174.145 1 4 133498 20150512074903
+66.249.90.96 0 1 115357 
+61.135.190.221 1 1 5644 20150509034729
+5.189.144.88 1 1 5644 20150522054619
+95.90.246.146 1 3 123093 20150530181746
+66.249.90.88 0 1 115357 
+123.125.71.79 1 1 5644 20150525080040
+94.195.60.192 1 4 133498 20150502125641
+185.24.234.125 1 1 5644 20150507053501
+77.243.166.204 1 1 5644 20150527073633
+78.158.11.226 1 1 5644 20150517173537
+117.78.13.59 1 1 5644 20150513133545
+197.231.221.211 1 1 5644 20150521235354
+88.74.29.29 1 4 133498 20150503160148
+61.135.190.222 1 1 5644 20150506183428
+84.226.84.52 1 4 133498 20150502090831
+147.91.1.42 1 4 133498 20150513094039
+64.233.172.213 1 2 7736 20150501045738
+94.189.144.177 1 4 133498 20150513142218
+123.125.71.86 1 1 5644 20150502191723
+37.120.69.191 1 3 123093 20150531050421
+87.129.7.37 1 4 133498 20150506121142
+86.183.19.11 1 4 133498 20150502094421
+123.125.71.105 1 1 5644 20150507030755
+66.249.84.242 0 1 2092 
+94.242.246.23 1 1 5644 20150521234008
+61.135.190.104 1 1 5644 20150507020732
+89.216.113.14 1 4 133498 20150519042140
+66.249.84.248 0 1 115357 
+86.123.244.169 1 3 131406 20150529155834
+66.249.91.92 1 1 5644 20150501045708
+80.113.194.66 1 4 133498 20150513032017
+80.187.106.64 1 3 123093 20150501062141
+178.222.190.218 1 4 133498 20150502152025
+90.200.4.133 1 4 133498 20150505182759
+37.19.108.25 1 4 133498 20150515163039
+66.249.81.191 0 1 10405 
+178.93.148.194 1 1 5644 20150511072847
+151.18.143.108 1 4 133498 20150512125348
+93.138.93.6 1 4 133498 20150522102206
+91.85.207.109 1 4 133498 20150519131022
+69.58.178.57 1 1 5644 20150511153413
+5.90.40.31 1 4 133498 20150528121806
+85.228.196.108 1 4 133498 20150502110231
+80.154.73.114 1 4 133498 20150521035544
+123.125.71.36 1 1 5644 20150526220840
+66.249.84.254 0 2 117449 
+146.255.153.48 1 4 133498 20150502113420
+46.99.52.27 1 4 133498 20150521062909
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20150501 16 24 560100 9
+20150502 19 43 1130068 13
+20150503 14 17 206870 4
+20150504 2 5 139142 2
+20150505 11 14 189938 4
+20150506 29 32 291530 6
+20150507 3 3 16932 3
+20150508 14 17 206870 5
+20150509 28 28 158032 5
+20150510 4 13 519403 4
+20150511 4 4 22576 3
+20150512 19 28 490798 7
+20150513 17 32 735218 10
+20150514 11 15 410247 3
+20150515 25 33 514257 10
+20150516 12 17 313031 5
+20150517 2 2 11288 2
+20150518 17 17 95948 6
+20150519 19 29 606155 9
+20150520 3 3 16932 1
+20150521 29 38 547238 12
+20150522 6 9 161718 4
+20150523 21 21 118524 7
+20150524 20 21 114972 9
+20150525 21 26 363827 8
+20150526 16 16 90304 6
+20150527 32 36 318867 12
+20150528 20 26 368588 9
+20150529 29 36 529097 13
+20150530 13 15 185177 6
+20150531 24 29 380759 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+2mn-5mn 1
+30s-2mn 1
+0s-30s 201
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 500 2810712 206 206
+END_SIDER

@@ -1,0 +1,721 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201508 will be lost/reset.
+# Last config file used to build this data file was /home/mattpchx/tmp/awstats/awstats.mattia.io.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2670                
+POS_VISITOR 15347               
+POS_DAY 20265               
+POS_DOMAIN 3453                
+POS_LOGIN 4062                
+POS_ROBOT 4217                
+POS_WORMS 4681                
+POS_EMAILSENDER 4812                
+POS_EMAILRECEIVER 4955                
+POS_SESSION 21071               
+POS_SIDER 21262               
+POS_FILETYPES 5090                
+POS_DOWNLOADS 5212                
+POS_OS 5260                
+POS_BROWSER 5611                
+POS_SCREENSIZE 6721                
+POS_UNKNOWNREFERER 6795                
+POS_UNKNOWNREFERERBROWSER 7320                
+POS_ORIGIN 7563                
+POS_SEREFERRALS 7702                
+POS_PAGEREFS 7867                
+POS_SEARCHWORDS 11574               
+POS_KEYWORDS 11732               
+POS_MISC 2334                
+POS_ERRORS 11797               
+POS_CLUSTER 3918                
+POS_SIDER_404 11895               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150901014638 36 7205 9818613188990
+FirstTime 0
+LastTime 20150831220357
+LastUpdate 20150901082144 36 0 35 0 0
+TotalVisits 287                 
+TotalUnique 119                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 123                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 35 37 314989 13 15 16932
+1 21 22 233881 19 30 36588
+2 31 37 422359 28 36 32981
+3 20 20 112880 10 18 38048
+4 26 34 406636 16 24 56440
+5 13 20 436124 21 35 149853
+6 20 26 360275 10 12 24668
+7 19 19 107236 12 21 43692
+8 44 68 1569398 47 56 38048
+9 30 39 641208 9 15 147761
+10 22 33 721818 10 20 44269
+11 23 32 610013 4 8 11288
+12 17 23 448295 11 19 143577
+13 30 43 884419 7 10 16932
+14 51 63 774321 8 15 34496
+15 44 55 837673 9 14 11288
+16 12 22 558334 16 21 30312
+17 20 26 368588 12 17 28220
+18 18 20 219041 4 10 21116
+19 18 21 221133 7 9 19024
+20 11 13 179533 5 6 28220
+21 28 34 510379 13 26 159049
+22 13 18 318675 11 22 43692
+23 16 23 444743 12 21 54980
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 28
+ua 452 452 2551088
+br 33 92 3367835
+us 22 37 738499
+nl 17 23 351656
+it 11 42 1754211
+de 7 21 668373
+cn 6 7 149221
+fr 6 6 33864
+in 3 8 253922
+ca 3 3 16932
+jp 2 6 141234
+ec 2 6 246186
+pl 2 2 11288
+se 2 4 128737
+pt 1 3 123093
+sc 1 2 7736
+tr 1 3 123093
+cl 1 3 123093
+es 1 3 123093
+ru 1 3 123093
+my 1 3 123093
+kr 1 4 133498
+ro 1 4 133498
+ma 1 1 5644
+gb 1 4 133498
+mz 1 2 7736
+by 1 1 5644
+na 1 3 123093
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+spider 79 344854 20150831152156 0
+bot[\s_+:,\.\;\/\\-] 47 360141 20150830093328 0
+googlebot 40 173940 20150831185156 0
+crawl 13 58532 20150831220110 0
+robot 6 132289 20150829013419 0
+googlebot\-image 4 10405 20150825100520 0
+no_user_agent 3 16932 20150822195350 0
+bingpreview 2 117449 20150813213448 0
+slurp 2 5644 20150820122250 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+css 79 165268 0 0
+png 87 8251875 0 0
+html 582 3284808 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+linuxandroid 20 6
+winlong 7 7
+winxp 272 271
+ios_iphone 24 9
+win2000 62 62
+win95 13 13
+winunknown 19 19
+win2003 20 20
+wince 3 3
+macosx9 4 1
+win8 3 1
+ios_ipad 1 0
+unix 5 5
+winnt 45 45
+win98 7 7
+linux 16 9
+win7 146 60
+winme 20 20
+macosx 34 9
+win16 2 2
+win8.1 7 2
+Unknown 13 9
+macosx8 5 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 60
+chrome44.0.2403.125 8 2
+msie6.0 231 231
+webcapture 6 6
+opera6.0 3 3
+android 4 1
+chrome44.0.2403.130 9 2
+msie4.01 15 15
+opera9.00 6 6
+firefox34.0 5 3
+msie3.02 3 3
+firefox31.0 1 1
+iphone 3 1
+netscape4.76 3 3
+firefox6.0.2 1 0
+opera7.60 6 6
+netscape0.91 2 2
+netscape3.0 7 7
+chrome21.0.1180.79 1 1
+msie7.0 19 19
+chrome37.0.2062.120 4 4
+msie2.0 13 13
+chrome43.0.2357.93 3 1
+safari8.0 20 6
+msie5.0 2 2
+msie9.0 3 3
+opera7.54 8 8
+firefox27.0 1 1
+opera9.0 14 14
+Unknown 6 5
+chrome30.0.0.0 4 1
+netscape4.61 5 5
+opera7.11 20 20
+firefox40.0 4 1
+chrome37.0.2049.0 3 1
+opera8.00 18 18
+opera9.01 3 3
+chrome44.0.2403.155 7 2
+opera8.01 20 20
+chrome28.0.1500.71 1 1
+msie5.5 44 44
+chrome32.0.1700.107 3 1
+netscape4.79 4 4
+chrome44.0.2403.107 4 1
+msie11.0 5 3
+safari6.0.5 4 1
+chrome29.0.1547.32 2 1
+netscape0.6 11 11
+chrome18.0.1025.133 1 1
+chrome36.0.1985.143 124 45
+firefox39.0 12 3
+mozilla 13 12
+chrome44.0.2403.157 5 1
+chrome35.0.1916.153 7 3
+firefox14.0.1 1 1
+safari5.1 2 2
+opera7.02 3 3
+firefox34.0.1 1 0
+chrome41.0.2228.0 1 1
+chrome44.0.2403.133 8 2
+chrome40.0.2214.93 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0_(Android;_Mobile;_rv:34.0)_Gecko/34.0_Firefox/34.0 20150819161000
+Mozilla/5.0_(compatible;_Qwantify/2.1n;__https://www.qwant.com/)/* 20150823150248
+\ 20150830001315
+Guardcrwlr 20150812153524
+Mozilla/5.0_(Android;_Mobile;_rv:34.0.1)_Gecko/34.0.1_Firefox/34.0.1 20150819161004
+ltx71_-_(http://ltx71.com/) 20150805143434
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20150807070141
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+\ 20150830001315
+Guardcrwlr 20150812153524
+python-requests/2.6.2_CPython/2.7.6_Linux/3.13.0-49-generic 20150801173423
+ltx71_-_(http://ltx71.com/) 20150805143434
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 42 49
+From1 0 0
+From2 7 8
+From3 514 515
+From4 19 176
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 3 4
+baidu 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 122
+http://success-seo.com/try.php 37 37
+http://doeco.ru 17 17
+http://poisk-zakona.ru 12 12
+http://utrolive.ru 12 12
+http://vukuhd.com 11 11
+http://chcu.net/porno-video-2015/ 10 10
+http://buypillsorderonline.com 10 10
+http://www.epanov-style.ru 10 10
+https://www.eshop.md 9 9
+https://dg-s.ru 9 9
+http://nevansk.ru 9 9
+http://golden-praga.ru/gimnazii-chehii 8 8
+http://5forex.ru 8 8
+http://drom93.ru 8 8
+http://buttons-for-website.com 8 8
+http://rentalmaty.kz 8 8
+http://modabutik.ru 8 8
+http://need-for-speed.info 7 7
+http://serpuhov-protvino.ru 7 7
+http://video-woman.com 7 7
+http://www.razumeykin.ru 7 7
+http://uplift.io 7 7
+http://prohoster.info 7 7
+http://balashihaevakuator.ru 6 6
+http://darkoman.com/tags/ 6 6
+http://katushka.net 2 2
+http://highlandmedia.net/tags/ 5 5
+http://captn-crop.com/product/cc-0003/ 1 1
+http://life-is-beautiful.ru 3 3
+http://raskrasok.net 2 2
+http://eyesdragon.ru 3 3
+http://klinikanikonova.ru 3 3
+http://cookingmeat.ru/mutton/recipe09.html 1 1
+http://studmathemat.ru 1 1
+http://womantouch.ru 4 4
+http://muscle-factory.com.ua 3 3
+http://mebelcomplekt.ru 1 1
+http://mebel-alait.ru 2 2
+http://slonechka.ru 5 5
+http://topmira.com 3 3
+http://ccpfy.net/onlayn-porno-video-2015-2016/ 3 3
+http://www.rospromtest.ru 3 3
+http://18pluss.ru 5 5
+http://burger-imperia.com 1 1
+http://x360-torrent.net 5 5
+http://cineworks.ru 1 1
+http://video--production.com 2 2
+http://prof-edinstvo.ru 3 3
+http://fashionor.ru 2 2
+http://mazda-roadsters.com 3 3
+http://mirtorrent.net 5 5
+http://sfd-chess.ru 3 3
+http://msk.yurgorod.ru 2 2
+http://fitness-video.net 2 2
+http://rp9.ru 1 1
+http://bag77.ru 2 2
+http://pozdrawleniya.su 3 3
+http://xn----7sbho2agebbhlivy.xn--p1ai 2 2
+http://www.portnoff.od.ua 3 3
+http://brothers-smaller.ru 5 5
+http://www.banibistro.ru 3 3
+http://18pluss.ru 2 2
+http://amilogic.com 5 5
+http://mccpharmacy.com 3 3
+http://xnxx-n.com 4 4
+http://ortodont23.ru 3 3
+http://school-diplomat.ru 4 4
+https://www.qitt.ru 1 1
+http://ru.webcams18.ru 2 2
+http://vintovye-svai-perm.ru 2 2
+http://dandydiary.de/tag/philip-von-mollenkott/ 1 1
+http://ru.live-sexchat.ru 2 2
+http://pizza-tycoon.com 1 1
+http://hvd-store.com 1 1
+http://kinoix.net 5 5
+http://canadianpharcharmyonline.org 3 3
+http://stylifyme.com 0 1
+http://hoporno.com 6 6
+http://www.saiding-plus.ru 5 5
+http://konkursov.net 6 6
+http://canadianmedicaments.com 1 1
+http://bristolhotel.com.ua 3 3
+https://www.facebook.com 1 1
+http://www.ugdom.pro 1 1
+http://www.vodaodessa.com 3 3
+http://hundejo.com 1 1
+http://cubook.supernew.org 3 3
+http://www.vodaodessa.com 1 1
+http://cardano.ru 6 6
+http://t.co/uP8dgoXi6R 3 3
+http://hamelius.ru 5 5
+http://cobaltpro.ru 3 3
+http://orel-reshka.net 3 3
+http://cookingmeat.ru/mutton/recipe11.html 3 3
+http://avtointeres.ru 2 2
+http://fsalas.com 4 4
+http://prahaprint.cz 3 3
+http://captn-crop.com/chronicle/ 1 1
+http://www.pozvonim.com 3 3
+http://live-videochat.ru 3 3
+http://nastroyke.net 3 3
+http://www.akuhni.by 3 3
+http://portal-eu.ru 1 1
+http://hazardky.net 5 5
+http://download-video-vkontakte.ru 4 4
+http://virtuallawer.com 2 2
+http://pornogig.com 3 3
+http://gdcentre.ru 2 2
+http://glavprofit.ru 3 3
+http://fishingwiki.ru 3 3
+http://petrovka-online.com 1 1
+http://extremez.net 6 6
+http://cookingmeat.ru/beef/recipe02.html 1 1
+http://114ie.net/tags/ 3 3
+http://invest-pamm.ru/blog/ 3 3
+http://juliaexposito.webflow.io 2 2
+http://dandydiary.de 1 1
+http://sklad-24.ru 6 6
+http://captn-crop.com/product-category/bags/ 1 1
+http://www.dailyinspiration.nl/resonate-2015-for-those-of-you-who-couldnt-attend/ 1 1
+http://bioca.org 2 2
+http://spb.afora.ru 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+hey 4
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+hey 4
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 2 11288
+404 280 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 82
+/ckfinder 1 -
+/sitemap.xml 3 -
+/ 5 http://whois.domaintools.com/mattia.io
+/robots.txt 124 -
+/Editor/assetmanager/assetmanager.asp 2 -
+/admin/Editor/assetmanager/assetmanager.asp 2 -
+/admin/default_image.aspx 2 -
+/admin/edit/default_image.asp 2 -
+/admin/editor/default_Image.aspx 2 -
+/Fckeditor/editor/ 1 -
+/wordpress/wp-login.php 4 -
+/admin/default_image.asp 2 -
+/wp-admin/ 2 -
+/editor/editor/ 2 -
+/admin/SiteEngineManager/components/Editor/assetmanager/assetmanager.aspx 2 -
+/admin/SiteEngineManager/components/Editor/assetmanager/assetmanager.asp 2 -
+/system/fckeditor/editor/ 2 -
+/admin/edit/default_image.aspx 2 -
+/SiteEngineManager/components/Editor/assetmanager/assetmanager.asp 2 -
+/xmlrpc.php 1 -
+/admin/wp-login.php 4 -
+/wp-admin/wp-login.php 4 -
+/sysadmin/fckeditor/editor/ 1 -
+/scripts/fckeditor/editor/ 1 -
+/admin/fckeditor/editor/filemanager/browser/default/connectors/test.html 1 http://www.mattia.io/admin/fckeditor/editor/filemanager/browser/default/connectors/test.html
+/fckeditor/editor/filemanager/browser/default/connectors/test.html 1 http://www.mattia.io/fckeditor/editor/filemanager/browser/default/connectors/test.html
+/ckeditor/editor/ 1 -
+/admin/assetmanager/assetmanager.aspx 2 -
+/SiteEngineManager/components/Editor/assetmanager/assetmanager.aspx 2 -
+/js/fckeditor/editor/ 2 -
+/administrator/SiteEngineManager/components/Editor/assetmanager/assetmanager.asp 2 -
+/admin/backup.sql 1 -
+/admin/assetmanager/assetmanager.asp 2 -
+/admin/fckeditor/editor/filemanager/connectors/test.html 1 http://www.mattia.io/admin/fckeditor/editor/filemanager/connectors/test.html
+/cms/wp-login.php 4 -
+/dump.sql 1 -
+/include/fckeditor/editor/ 1 -
+/admin/database.sql 1 -
+/blog/wp-admin/ 2 -
+/blog/wp-login.php 4 -
+/editor/filemanager/browser/default/connectors/test.html 1 http://www.mattia.io/editor/filemanager/browser/default/connectors/test.html
+/edit/default_image.asp 2 -
+/editorold/editor/ 1 -
+/wp-login.php 6 -
+/assetmanager/assetmanager.aspx 2 -
+/admin/editor/default_Image.asp 2 -
+/site/wp-login.php 4 -
+/test/wp-admin/ 2 -
+/wp/wp-admin/ 2 -
+/editor/fckeditor/editor/ 1 -
+/database.sql 1 -
+/wp-login/ 4 -
+/admin/assetmanager/default.asp 2 -
+/common/fckeditor/editor/ 2 -
+/old/wp-admin/ 2 -
+/inc/fckeditor/editor/ 1 -
+/Editor/assetmanager/assetmanager.aspx 2 -
+/editor/assetmanager/assetmanager.asp 2 -
+/admin/fckeditor/editor/filemanager/upload/test.html 1 http://www.mattia.io/admin/fckeditor/editor/filemanager/upload/test.html
+/administrator/Editor/assetmanager/assetmanager.asp 2 -
+/edit/default_image.aspx 2 -
+/Fckeditornew/editor/ 1 -
+/admin/Editor/assetmanager/assetmanager.aspx 2 -
+/install/index.php 1 -
+/fck/editor/ 1 -
+/backup.sql 1 -
+/wp/wp-login.php 4 -
+/ofrzeditor/assetmanager/assetmanager.asp 2 -
+/section/wp-login.php 4 -
+/fckeditor/editor/ 1 -
+/manage/fckeditor/editor/ 2 -
+/wordpress/wp-admin/ 2 -
+/db.sql 1 -
+/fckeditor/_samples/asp/sample01.asp 1 http://www.mattia.io/fckeditor/_samples/asp/sample01.asp
+/editor1/editor/ 1 -
+/admin/backup/db.sql 1 -
+/admin/backup/dump.sql 1 -
+/admin/db.sql 1 -
+/admin/dump.sql 1 -
+/backup/backup.sql 1 -
+/assetmanager/assetmanager.asp 2 -
+/admin/fckeditor/editor/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 123
+46.119.124.209 65 65 366860 20150813005554
+178.137.87.228 58 58 327352 20150813055314
+46.118.152.216 57 57 321708 20150813061818
+176.8.90.218 57 57 321708 20150826220131
+46.118.115.56 57 57 321708 20150827094410
+94.153.10.71 52 52 293488 20150827091639
+46.185.117.31 48 48 270912 20150830170949
+46.118.126.38 23 23 129812 20150831215136
+178.137.92.63 19 19 107236 20150830193719
+46.118.118.173 15 15 84660 20150831135102
+80.82.65.82 15 15 84660 20150830002711
+195.154.146.225 4 4 22576 20150831172329
+167.114.174.95 3 3 16932 20150807070142
+162.211.122.43 2 2 11288 20150808140344
+5.45.111.71 2 2 11288 20150812153524
+61.135.190.103 2 2 11288 20150819185327
+191.211.197.223 1 3 123093 20150822231741
+142.4.213.25 1 1 5644 20150809141614
+186.42.105.67 1 3 123093 20150830212513
+82.95.221.212 1 4 133498 20150817044854
+23.29.134.14 1 1 5644 20150801173423
+177.4.61.137 1 2 7736 20150822150149
+179.172.53.202 1 2 7736 20150816234427
+190.46.228.40 1 3 123093 20150826124125
+31.22.247.141 1 3 123093 20150822095749
+68.107.114.59 1 4 133498 20150814223659
+82.33.197.92 1 4 133498 20150808061229
+69.58.178.58 1 1 5644 20150811102310
+93.47.127.241 1 3 123093 20150821060300
+5.168.114.70 1 4 133498 20150814050648
+37.187.129.166 1 1 5644 20150811032005
+151.18.126.165 1 3 123093 20150812165712
+179.111.234.121 1 3 123093 20150812142837
+62.118.135.133 1 3 123093 20150828124339
+84.222.111.128 0 1 115357 
+176.4.54.98 1 4 133498 20150816131901
+66.249.92.59 1 1 5644 20150807154350
+123.58.145.218 1 1 5644 20150817005918
+191.6.136.57 1 3 123093 20150817195933
+186.33.178.38 1 3 123093 20150819153531
+105.154.113.149 1 1 5644 20150804080426
+201.13.17.26 1 2 7736 20150829192555
+151.26.56.241 1 3 123093 20150806084251
+154.121.251.203 1 2 7736 20150816141547
+179.187.75.108 1 3 123093 20150819093922
+187.65.21.224 1 3 123093 20150813115928
+62.210.178.179 1 1 5644 20150815112709
+94.167.245.237 1 3 123093 20150818055959
+166.137.252.50 1 3 123093 20150823093144
+64.74.215.128 1 2 7736 20150830001315
+197.218.75.68 1 2 7736 20150828145915
+115.230.126.48 1 1 5644 20150825171041
+95.61.216.17 1 3 123093 20150831154210
+200.149.191.48 1 3 123093 20150818081141
+194.187.168.23 1 1 5644 20150823150248
+52.76.15.101 1 2 7736 20150814041918
+177.65.165.36 1 3 123093 20150814121017
+177.7.210.15 1 3 123093 20150827104523
+189.18.144.188 1 3 123093 20150831092847
+177.201.198.198 1 3 123093 20150815140206
+175.141.204.170 1 3 123093 20150820055859
+177.52.144.138 1 3 123093 20150816080851
+198.204.245.202 1 1 5644 20150812061521
+201.27.122.168 1 3 123093 20150812154847
+117.241.68.68 1 3 123093 20150831104708
+191.19.174.108 1 3 123093 20150818185557
+117.205.221.113 1 2 7736 20150817091835
+177.98.239.217 1 3 123093 20150826153515
+187.6.93.20 1 3 123093 20150812155026
+84.222.57.83 1 5 135590 20150812041608
+78.48.54.44 1 4 133498 20150804111510
+52.76.13.217 1 2 7736 20150816065613
+175.214.110.96 1 4 133498 20150803083513
+46.227.4.108 1 4 133498 20150806084610
+70.39.157.193 1 1 5644 20150819153122
+151.56.235.212 1 4 133498 20150806084606
+61.135.190.219 1 1 5644 20150815204212
+186.232.164.126 1 3 123093 20150828133721
+107.20.60.92 1 3 123093 20150822085211
+189.103.10.51 1 1 5644 20150826120313
+111.206.36.139 0 1 115357 
+91.252.28.55 0 1 115357 
+200.158.253.119 1 3 123093 20150821205113
+151.40.218.150 1 4 133498 20150819160959
+178.162.216.38 1 4 133498 20150818164443
+43.251.175.83 1 2 7736 20150819023116
+119.172.30.199 1 4 133498 20150805025557
+5.254.65.21 1 4 133498 20150824172430
+117.205.122.177 1 3 123093 20150818110931
+179.84.161.151 1 3 123093 20150813080312
+86.95.217.9 1 4 133498 20150815103402
+189.55.20.230 1 3 123093 20150821140800
+79.56.126.140 0 1 115357 
+52.2.190.78 1 1 5644 20150805143434
+79.60.235.135 1 3 123093 20150806084835
+179.253.49.235 1 3 123093 20150812131145
+77.180.36.46 1 4 133498 20150820173555
+179.211.25.144 1 3 123093 20150814233142
+192.99.1.217 1 1 5644 20150823091056
+62.157.51.200 1 3 123093 20150825213911
+95.235.201.247 1 3 123093 20150804024502
+191.54.76.100 1 3 123093 20150812103619
+76.16.220.39 1 4 133498 20150805140859
+189.122.220.94 1 3 123093 20150812235617
+179.234.206.119 1 3 123093 20150830135716
+94.234.170.200 1 3 123093 20150828101253
+193.201.224.126 1 1 5644 20150816082057
+177.74.20.15 1 2 7736 20150829142215
+179.191.203.116 1 3 123093 20150828163818
+177.106.254.106 1 2 7736 20150816113602
+177.17.197.24 1 3 123093 20150822212630
+194.187.168.24 1 1 5644 20150821182901
+61.135.190.102 1 1 5644 20150815204214
+188.57.179.225 1 3 123093 20150812131529
+37.212.161.106 1 1 5644 20150823024221
+192.99.246.164 1 1 5644 20150810001718
+178.16.208.56 1 1 5644 20150822134510
+216.163.188.234 1 1 5644 20150817092033
+162.206.229.185 1 3 123093 20150812085711
+52.8.157.152 1 1 5644 20150815022922
+70.39.157.195 1 1 5644 20150819152308
+41.182.68.242 1 3 123093 20150815134038
+177.157.54.46 1 3 123093 20150831220357
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20150801 7 7 39508 3
+20150802 28 28 158032 10
+20150803 11 14 189938 6
+20150804 28 33 403335 13
+20150805 15 22 455725 8
+20150806 31 41 665570 12
+20150807 15 15 84660 6
+20150808 30 33 297174 13
+20150809 14 14 79016 7
+20150810 17 17 95948 6
+20150811 17 17 95948 9
+20150812 27 49 1339375 18
+20150813 25 29 375998 11
+20150814 20 31 605578 10
+20150815 17 24 458700 12
+20150816 30 39 422991 13
+20150817 10 16 303835 8
+20150818 19 30 704886 11
+20150819 19 28 587437 11
+20150820 4 9 267879 3
+20150821 27 33 504735 13
+20150822 13 23 660617 9
+20150823 16 18 207753 8
+20150824 20 23 240734 7
+20150825 5 7 145669 3
+20150826 26 30 381642 12
+20150827 12 14 185177 6
+20150828 26 36 733989 13
+20150829 13 15 77556 6
+20150830 21 26 355514 10
+20150831 19 27 577032 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 2
+2mn-5mn 1
+15mn-30mn 2
+0s-30s 276
+30mn-1h 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 582 3284808 287 287
+END_SIDER

@@ -1,0 +1,710 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201506 will be lost/reset.
+# Last config file used to build this data file was /home/mattpchx/tmp/awstats/awstats.mattia.io.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2003                
+POS_TIME 2680                
+POS_VISITOR 18297               
+POS_DAY 21278               
+POS_DOMAIN 3444                
+POS_LOGIN 3877                
+POS_ROBOT 4032                
+POS_WORMS 4415                
+POS_EMAILSENDER 4546                
+POS_EMAILRECEIVER 4689                
+POS_SESSION 22066               
+POS_SIDER 22267               
+POS_FILETYPES 4824                
+POS_DOWNLOADS 4945                
+POS_OS 4993                
+POS_BROWSER 5220                
+POS_SCREENSIZE 6090                
+POS_UNKNOWNREFERER 6164                
+POS_UNKNOWNREFERERBROWSER 6476                
+POS_ORIGIN 6616                
+POS_SEREFERRALS 6756                
+POS_PAGEREFS 6921                
+POS_SEARCHWORDS 10775               
+POS_KEYWORDS 10933               
+POS_MISC 2344                
+POS_ERRORS 10998               
+POS_CLUSTER 3733                
+POS_SIDER_404 11094               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150701033249 14 2135 9769954658149
+FirstTime 20150601025839
+LastTime 20150630191515
+LastUpdate 20150701093635 14 0 13 0 0
+TotalVisits 286                 
+TotalUnique 73                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 74                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 28 28 158032 5 9 32981
+1 23 25 255574 3 5 11288
+2 27 31 276690 13 25 41600
+3 33 36 314106 5 7 11288
+4 30 37 540385 7 12 24668
+5 27 30 280242 22 24 230714
+6 27 42 670080 9 12 39508
+7 39 51 725888 6 16 249738
+8 27 29 269837 6 13 28220
+9 23 26 257666 5 5 16932
+10 31 31 174964 9 11 5644
+11 42 45 359258 8 11 30312
+12 13 16 201226 7 8 22576
+13 38 40 326277 7 12 21116
+14 37 45 581985 24 31 29429
+15 29 33 398574 10 12 50796
+16 40 40 225760 105 107 0
+17 31 31 174964 10 17 30312
+18 13 13 73372 3 7 16932
+19 23 23 129812 10 21 37503
+20 35 35 197540 3 7 23785
+21 35 35 197540 2 9 135590
+22 51 51 287844 8 17 37165
+23 11 13 187846 23 29 50796
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+ua 574 574 3239656
+us 44 46 374098
+cz 20 20 112880
+ru 18 18 101592
+cn 16 16 67728
+de 14 52 1827352
+sa 9 9 50796
+it 6 19 530746
+nl 4 13 406138
+fi 2 2 11288
+ro 2 7 264904
+rs 1 4 133498
+ph 1 4 133498
+by 1 1 5644
+se 1 1 5644
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 50 203620 20150630020212 0
+spider 48 755070 20150630021544 0
+bot[\s_+:,\.\;\/\\-] 30 143192 20150630113048 0
+no_user_agent 5 26215 20150626232637 0
+slurp 4 11288 20150616172129 0
+robot 4 16932 20150627064034 0
+crawl 3 16932 20150626155853 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+css 27 56484 0 0
+png 46 3207382 0 0
+html 713 4001596 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 19
+linuxandroid 18
+winlong 7
+winxp 330
+win2000 61
+winvista 4
+win95 21
+winunknown 31
+wince 12
+win2003 43
+unix 2
+java 7
+winnt 48
+win98 15
+linux 3
+win7 63
+macosx 56
+winme 33
+win16 9
+Unknown 23
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 55
+safari7.0 3
+msie6.0 351
+webcapture 3
+chrome43.0.2357.124 16
+android 4
+chrome28.0.1500.94 4
+msie4.01 13
+firefox18.0 2
+opera9.00 14
+firefox34.0 21
+chrome31.0.1650.63 1
+firefox24.0 1
+msie3.02 12
+safari8.0.6 12
+chrome33.0.0.0 1
+iphone 5
+msie8.0 1
+netscape4.76 6
+firefox6.0.2 5
+chrome43.0.2357.81 12
+opera7.60 6
+netscape0.91 18
+msie7.0 15
+chrome37.0.2062.120 2
+msie2.0 17
+safari8.0 3
+safari7.1.3 4
+msie5.0 22
+chrome43.0.2357.92 4
+opera9.0 11
+Unknown 7
+opera7.54 3
+chrome30.0.1599.101 1
+firefox27.0 1
+safari7.0.2 4
+opera7.11 6
+netscape4.61 2
+opera8.00 1
+lg\- 4
+chrome27.0.1453.110 2
+firefox38.0 17
+opera8.01 3
+msie5.5 23
+opera9.25 1
+chrome13.0.782.215 3
+netscape4.79 3
+chrome43.0.2357.130 3
+netscape0.6 10
+chrome36.0.1985.143 4
+chrome18.0.1025.133 1
+mozilla 92
+firefox14.0.1 1
+safari5.1 3
+firefox3.6.3 1
+chrome21.0.1180.89 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_PageAnalyzer/1.5;) 20150629113518
+Mozilla/5.0_(compatible;_Add_Catalog/2.1;) 20150621073712
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20150630191510
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Java/1.6.0_04 20150630014019
+Java/1.8.0_40 20150611235645
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 56 66
+From1 0 0
+From2 18 18
+From3 616 616
+From4 23 86
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+search 9 9
+baidu 9 9
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 124
+http://kinopolet.net 16 16
+http://pochemychka.net 15 15
+http://kino-fun.ru 14 14
+http://psa48.ru 12 12
+http://www.gkvector.ru 12 12
+http://petrovka-online.com 12 12
+http://allwomen.info 11 11
+http://goodprotein.ru 11 11
+http://tedxrj.com 10 10
+http://eurosamodelki.ru 10 10
+http://altermix.ua 10 10
+http://howopen.ru 9 9
+http://filmetricsasia.com 9 9
+http://arkkivoltti.net 9 9
+http://escort-russian.com 9 9
+http://xjrul.com 9 9
+http://invest-pamm.ru/blog/ 9 9
+http://doska-vsem.ru 9 9
+http://cartechnic.ru 9 9
+http://www.uasb.ru 8 8
+http://xn----7sbho2agebbhlivy.xn--p1ai 8 8
+http://boleznikogi.com 8 8
+http://www.osoznanie-narkotikam.net 8 8
+http://zastroyka.org 8 8
+http://girlporn.ru 8 8
+http://msk.afora.ru 3 3
+http://aruplighting.com 3 3
+http://novosti-hi-tech.ru 3 3
+http://sledstvie-veli.net 2 2
+http://viparenda.kz/ru/ 6 6
+http://dandydiary.de/berghain-grufti-look-bitte-fahren-sie-weiter-das-ist-fledermausland/ 1 1
+http://bablonow.ru 3 3
+http://laxdrills.com 5 5
+http://www.moyakuhnia.ru 5 5
+http://baladur.ru 6 6
+http://muscle-factory.com.ua 6 6
+http://online-hit.info 6 6
+http://bestmobilityscooterstoday.com 1 1
+http://taihouse.ru 6 6
+http://codysbbq.com 4 4
+http://burger-imperia.com 1 1
+http://imperiafilm.ru 5 5
+http://www.artparquet.ru 3 3
+http://siteripz.net 2 2
+http://dandydiary.de/bei-instagram-duerft-ihr-fortan-shoppen/ 1 1
+http://viktoria-center.ru 3 3
+http://xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai 6 6
+http://dandydiary.de/page/2/ 1 1
+http://rcb101.ru 3 3
+http://brk-rti.ru 2 2
+http://www.euhlpam.org/events 3 3
+http://mirtorrent.net 6 6
+http://captn-crop.com/news/ 1 1
+http://pornhub-ru.com 3 3
+http://msk.yurgorod.ru 3 3
+http://android-style.com 6 6
+http://handicapvantoday.com 3 3
+http://sady-urala.ru 6 6
+http://online-hit.info 2 2
+http://toyota.7zap.com 6 6
+http://steame.ru 3 3
+http://pricheski-video.com 2 2
+http://bag77.ru 3 3
+http://tattooha.com 3 3
+http://www.portnoff.od.ua 6 6
+http://www.qwesa.ru 3 3
+http://elmifarhangi.com 3 3
+http://brothers-smaller.ru 6 6
+http://xn--80adaggc5bdhlfamsfdij4p7b.xn--p1ai 7 7
+http://ktm.afora.ru 3 3
+http://akv.kz/ru/ 3 3
+http://dojki-hd.com 2 2
+http://viel.su 4 4
+http://www.knigonosha.net 3 3
+http://xnxx-n.com 3 3
+http://captn-crop.com 2 2
+http://www.ringporno.com 3 3
+https://www.qitt.ru 6 6
+http://bizru.info 6 6
+http://m1media.net 6 6
+http://aviva-limoux.com 3 3
+http://hvd-store.com 1 1
+http://bif-ru.info 6 6
+http://allknow.info 3 3
+http://niki-mlt.ru 3 3
+http://anapa-inns.ru 6 6
+http://mini.afora.ru 5 5
+http://konkursov.net 2 2
+http://bristolhotel.com.ua 3 3
+http://kazrent.com 3 3
+http://cubook.supernew.org 4 4
+http://cardano.ru 3 3
+http://prointer.net.ua 2 2
+http://t.co/uP8dgoXi6R 1 1
+http://djekxa.ru 2 2
+http://forsex.info 6 6
+http://bluerobot.info/nw2/bryrodafejonuly 2 2
+http://azartclub.org 5 5
+http://www.realitatea.md/tag/tudor-balitchi_4397 3 3
+http://www.spravka130.ru 7 7
+http://l.facebook.com/l.php 1 1
+http://filmetricsasia.com 2 2
+http://detskie-konstruktory.ru 3 3
+http://fsalas.com 3 3
+http://siteripz.net 5 5
+http://captn-crop.com/chronicle/ 1 1
+http://tomck.com 3 3
+http://sibecoprom.ru 3 3
+http://dandydiary.de/pompoeoes-wohnen-harald-gloeoeckler-verkauft-privat-inventar-bei-ebay/ 2 2
+http://www.arendakvartir.kz 3 3
+http://salutmontreal.com 6 6
+http://www.akuhni.by 3 3
+http://buyantiviralwp.com 5 5
+http://dandydiary.de/das-schleichende-ende-der-bread-butter-unbekannte-marken-und-der-weg-von-einer-messe-zum-mode-festival/ 1 1
+http://ecomp3.ru 8 8
+http://www.promoforum.ru 3 3
+http://pornoforadult.com 6 6
+http://jjbabskoe.ru 5 5
+http://budmavtomatika.com.ua 3 3
+http://rapevideosmovies.com 3 3
+http://littleberry.ru 6 6
+http://minegam.com 6 6
+http://alpharma.net 3 3
+http://spb.afora.ru 6 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+hey 9
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+hey 9
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 1 5644
+404 281 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 148
+/https://readymag.com/u52515022/28390 1 -
+/forms/admin/scripts/fckeditor.2641/editor/fckeditor.html 1 -
+/javascript/editors/fckeditor/editor/fckeditor.html 1 -
+/ 2 http://whois.domaintools.com/mattia.io
+/documents/FileZilla.xml 1 -
+/admin.php 3 -
+/biblioteca/marco/FileZillaPortable/Data/settings/filezilla.xml 1 -
+/cms/_includes/fckeditor/editor/fckeditor.html 1 -
+/cms/app/webroot/js/fckeditor/editor/fckeditor.html 1 -
+/editor/editor/ 3 -
+/wysiwyg/fckeditor/editor/fckeditor.html 1 -
+/wp-content/plugins/revolution-slider/release_log.txt 1 -
+/~documents/CMGA6/registration/public/fckeditor/editor/fckeditor.html 1 -
+/dropbox/Apps/softwarecookerbd/FileZilla.xml 1 -
+/system/fckeditor/editor/ 4 -
+/Providers/HtmlEditorProviders/Fck/fckeditor/editor/fckeditor.html 1 -
+/system/ext/fckeditor/editor/fckeditor.html 1 -
+/stara/include/FCKeditor/editor/fckeditor.html 1 -
+/adm_gerencia/fckeditor/editor/fckeditor.html 1 -
+/xmlrpc.php 1 -
+/sysadmin/fckeditor/editor/ 2 -
+/ckeditor/editor/ 2 -
+/webmanager/FCKeditor/editor/fckeditor.html 1 -
+/js/fckeditor/editor/ 3 -
+/filezilla-recupero-password/FileZilla.xml 1 -
+/affiliate/affiliate53/fckeditor/editor/fckeditor.html 1 -
+/download/FileZilla.xml 1 -
+/mt/mt-static/plugins/FCKeditor/fckeditor/editor/fckeditor.html 1 -
+/files/static/fckeditor/editor/fckeditor.html 1 -
+/eagle/FileZilla.xml 1 -
+/bip/KW/fckeditor/editor/fckeditor.html 1 -
+/editorold/editor/ 2 -
+/site/lib/FCKeditor/editor/fckeditor.html 1 -
+/wp-login.php 11 -
+/Fckeditorold/editor/ 2 -
+/script/fckeditor/editor/fckeditor.html 1 -
+/sites/all/libraries/fckeditor/editor/fckeditor.html 1 -
+/arriba/FileZilla.xml 1 -
+/lightbox/FileZilla.xml 1 -
+/nma2013/StephKENT/FileZilla.xml 1 -
+/common/fckeditor/editor/fckeditor.html 1 -
+/wp-content/plugins/revslider/release_log.txt 1 -
+/tts/FileZilla.xml 1 -
+/https://ello.co/mattia-io 1 -
+/sites/all/modules/fckeditor/fckeditor/editor/fckeditor.html 1 -
+/web-files/fckeditor/editor/fckeditor.html 1 -
+/controls/fckeditor/editor/fckeditor.html 1 -
+/wp-admin/admin-ajax.php 4 -
+/BACKUP/BeUnique/lata/Desktop/FileZilla.xml 1 -
+/stats/usage_201506.html 1 http://www.mattia.io/stats/usage_201506.html
+/Fckeditornew/editor/ 2 -
+/webmail/plugins/html_mail/fckeditor/editor/fckeditor.html 1 -
+/https://www.youtube.com/watch 1 -
+/k/FileZilla.xml 1 -
+/ViK_baza/arhiv/FileZilla.xml 1 -
+/typo/FileZilla.xml 1 -
+/includes/fckeditor/editor/ 2 -
+/gbe/modules/content/admin/fckeditor/editor/fckeditor.html 1 -
+/webyep-system/program/opt/fckeditor/editor/fckeditor.html 1 -
+/module/00023/59/FCKeditor/editor/fckeditor.html 1 -
+/FileZillaPortable/Data/settings/filezilla.xml 1 -
+/https://www.behance.net/visualaddicted 1 -
+/administrator/index.php 6 -
+/cmw/FileZilla.xml 1 -
+/glossary/fckeditor/editor/fckeditor.html 1 -
+/admin/libexterne/fckeditor/editor/fckeditor.html 1 -
+/puglia2/innova/assetmanager/assetmanager.asp 1 -
+/ccmail/fckeditor/editor/fckeditor.html 1 -
+/componentes3.7/fckeditor/editor/fckeditor.html 1 -
+/admin/fckeditor/editor/ 3 -
+/themes/mantaTheme1/newsmail/templates/javaScript/fckeditor/editor/fckeditor.html 1 -
+/robots.txt 80 -
+/user 2 -
+/pliki/adm/fckeditor/editor/fckeditor.html 1 -
+/includes/phpEasyAdmin/form/textarea/editor/fckeditor.html 1 -
+/intranet/fckeditor/editor/fckeditor.html 1 -
+/blog/wp-content/plugins/fckeditor-for-wordpress-plugin/fckeditor/editor/fckeditor.html 1 -
+/Fckeditor/editor/ 2 -
+/customcontent/USDA_ECM_OVERVIEW/cvx06_sco01/FCKeditor/editor/fckeditor.html 1 -
+/plugins/fckeditor-spip-2/fckeditor/editor/fckeditor.html 1 -
+/js/3rdparty/fckeditor/editor/fckeditor.html 1 -
+/fckeditor/editor/filemanager/connectors/uploadtest.html 1 http://www.mattia.io/fckeditor/editor/filemanager/connectors/uploadtest.html
+/scripts/fckeditor/editor/ 2 -
+/drupal/sites/all/modules/fckeditor/fckeditor/editor/fckeditor.html 1 -
+/utilities/external/fckeditor/editor/fckeditor.html 1 -
+/dadamail/dada/extras/packages/fckeditor/editor/fckeditor.html 1 -
+/wp-content/plugins/wp-symposium-pro/js/wps.admin.js 1 -
+/shop/assets/js/fckeditor/editor/fckeditor.html 1 -
+/https://www.facebook.com/vincent.vega.9847 2 -
+/wp-content/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js 1 -
+/FileZilla/filezilla.xml 1 -
+/sites/efeefe.no-ip.org/modules_bak/fckeditor/fckeditor/editor/fckeditor.html 1 -
+/cf/scripts/ajax/FCKeditor/editor/fckeditor.html 1 -
+/crm/include/fckeditor/editor/fckeditor.html 1 -
+/https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js 1 -
+/joshiken/html/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/portfolio/aui/FCKeditor/editor/fckeditor.html 1 -
+/include/fckeditor/editor/ 3 -
+/Worship/FileZilla.xml 1 -
+/tgda/FileZilla.xml 1 -
+/UI/Tools/FCKeditor/editor/fckeditor.html 1 -
+/portlets/sisRapid/dream/libs/V2.56/vcl/FCKeditor/editor/fckeditor.html 1 -
+/frame/lib/fckeditor/editor/fckeditor.html 1 -
+/MYIMPDATA/FileZilla.xml 1 -
+/blog/FCKeditor/editor/fckeditor.html 1 -
+/~cwcheng/C_Lan/fckeditor/editor/fckeditor.html 1 -
+/editor/fckeditor/editor/ 2 -
+/webalizer/usage_201506.html 1 http://www.mattia.io/webalizer/usage_201506.html
+/jeunes/fckeditor/editor/fckeditor.html 1 -
+/common/fckeditor/editor/ 3 -
+/kmustkjc/plugins/editors/fckeditor/editor/fckeditor.html 1 -
+/inc/fckeditor/editor/fckeditor.html 1 -
+/inc/fckeditor/editor/ 2 -
+/https://twitter.com/visualaddicted_ 1 -
+/PortableFileZilla/FileZilla/FileZilla.xml 1 -
+/wp-content/plugins/fckeditor_for_wordpress/fckeditor/editor/fckeditor.html 1 -
+/distancelearning/sites/all/modules/fckeditor/fckeditor/editor/fckeditor.htm 1 -
+/html/editor/wp-content/plugins/fckeditor_for_wordpress/fckeditor/editor/fckeditor.html 1 -
+/kaiseki/FileZillaPortable/Data/settings/filezilla.xml 1 -
+/images/banner/FileZilla.xml 1 -
+/fck/editor/ 2 -
+/config/FileZilla.xml 1 -
+/GestaoProService/includes/fckeditor/editor/fckeditor.html 1 -
+/~pi/opiti/pppblog/FCKeditor/editor/fckeditor.html 1 -
+/~visionpl/typo/FileZilla.xml 1 -
+/adminicpsb/script/fckeditor/editor/fckeditor.html 1 -
+/system/lib/ext/fckeditor/editor/fckeditor.html 1 -
+/web_97/ftp/FileZilla.xml 1 -
+/user_data/packages/miyabunnew/fckeditor/editor/fckeditor.html 1 -
+/Link/FileZilla.xml 1 -
+/fckeditor/editor/ 2 -
+/manage/fckeditor/editor/ 3 -
+/bscw_resources/javascript/FCKeditor/editor/fckeditor.html 1 -
+/FileZilla.xml 1 -
+/editor1/editor/ 2 -
+/modules/editor/fckeditor/editor/fckeditor.html 1 -
+/c4sql8-solidarieta/html/images_sys/fckeditor.o/editor/fckeditor.html 1 -
+/template/js_lib/fckeditor/editor/fckeditor.html 1 -
+/app/resources/javascript/FCKeditor/2.3.1/editor/fckeditor.html 1 -
+/newsite/FCKeditor/editor/fckeditor.html 1 -
+/common/third_party/FCKeditor/editor/fckeditor.html 1 -
+/index.php 4 -
+/libs/fckeditor/editor/fckeditor.html 1 -
+/codemis_cms/js/fckeditor/editor/fckeditor.html 1 -
+/allister/downloads/filezilla/FileZilla.xml 1 -
+/https://vimeo.com/102517030 1 -
+/addon/FCKeditor/editor/fckeditor.html 1 -
+/dekra/FCKeditor/editor/fckeditor.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 74
+94.153.10.249 129 129 728076 20150622020609
+94.153.9.220 123 123 694212 20150621041201
+178.137.84.254 122 122 688568 20150621214710
+176.8.91.130 54 54 304776 20150630071920
+37.115.189.89 43 43 242692 20150629223133
+178.137.84.13 40 40 225760 20150630074054
+46.118.239.173 36 36 203184 20150622153814
+162.211.122.43 21 21 118524 20150629163450
+93.170.186.121 20 20 112880 20150626031918
+46.118.228.151 15 15 84660 20150629225232
+109.120.157.179 12 12 67728 20150621073712
+192.187.126.162 7 7 39508 20150629183515
+5.189.144.88 7 7 39508 20150629113518
+37.139.52.23 6 6 33864 20150605165721
+167.114.209.38 3 3 16932 20150630191511
+216.38.216.197 3 3 16932 20150626201912
+61.135.190.219 3 3 16932 20150619225256
+61.135.190.102 3 3 16932 20150621211827
+37.115.185.94 3 3 16932 20150601025841
+87.0.142.182 2 3 13380 20150618020339
+94.153.11.69 2 2 11288 20150630182922
+64.79.75.34 2 4 137050 20150630014018
+37.115.191.104 2 2 11288 20150630191515
+178.137.162.15 2 2 11288 20150630101122
+198.11.172.93 2 2 11288 20150616015025
+180.149.143.15 1 1 0 20150602115355
+79.200.198.53 1 4 133498 20150610065809
+82.75.131.86 1 4 133498 20150610141350
+82.95.221.212 1 4 133498 20150622022633
+171.25.193.77 1 1 5644 20150613160528
+92.113.131.112 1 1 5644 20150627235026
+162.247.72.199 1 1 5644 20150621212833
+202.46.54.160 1 1 0 20150626025447
+212.245.244.70 1 4 11920 20150611064529
+94.163.202.62 0 1 115357 
+61.174.9.80 1 1 5644 20150624201015
+174.79.35.13 1 1 5644 20150619091428
+79.194.77.161 1 3 123093 20150629152716
+109.93.201.40 1 4 133498 20150609122442
+146.60.206.253 1 4 133498 20150604070100
+178.162.216.35 1 3 123093 20150626084643
+202.46.54.135 1 1 0 20150630074117
+123.125.71.12 1 1 5644 20150604152349
+37.120.62.115 1 4 133498 20150629061844
+89.105.194.74 1 1 5644 20150602102426
+194.95.89.56 1 4 133498 20150617061856
+92.231.116.208 1 3 123093 20150621151332
+180.149.143.21 1 1 0 20150603132226
+92.113.20.32 1 1 5644 20150609173538
+178.121.9.148 1 1 5644 20150628142650
+91.213.8.84 1 1 5644 20150621211713
+79.201.116.11 1 4 133498 20150604115113
+93.47.7.195 1 3 123093 20150608144733
+95.91.214.94 1 4 133498 20150607042313
+79.228.233.163 1 4 133498 20150616071801
+54.158.157.114 1 1 5644 20150604193555
+80.153.239.103 1 4 133498 20150629092141
+54.93.38.198 1 1 5644 20150629221455
+123.125.71.103 1 1 5644 20150604150856
+216.163.188.236 1 1 5644 20150627080313
+92.225.6.184 1 4 133498 20150613064858
+89.204.138.93 1 3 123093 20150613132039
+104.238.169.137 1 4 133498 20150618044717
+93.36.106.186 1 4 133498 20150609052427
+84.24.196.167 1 4 133498 20150603074133
+69.58.178.59 1 1 5644 20150611101031
+82.58.9.47 1 4 133498 20150608145344
+92.201.87.250 1 4 133498 20150617034618
+78.43.42.54 1 4 133498 20150616071836
+5.189.144.124 2 2 11288 20150615154918
+79.116.30.170 1 3 131406 20150611235645
+192.99.9.164 2 2 11288 20150619084957
+61.135.190.103 2 2 11288 20150615160719
+61.135.190.224 1 1 5644 20150622133015
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20150601 17 17 95948 5
+20150602 27 27 146744 8
+20150603 31 34 297174 11
+20150604 22 28 379876 12
+20150605 42 42 237048 12
+20150606 16 16 90304 7
+20150607 32 35 308462 11
+20150608 17 22 341251 10
+20150609 23 29 385520 12
+20150610 24 30 391164 12
+20150611 24 29 267494 12
+20150612 29 29 163676 10
+20150613 21 26 363827 10
+20150614 25 25 141100 8
+20150615 15 15 84660 8
+20150616 27 33 408096 12
+20150617 16 22 346012 8
+20150618 26 30 276690 8
+20150619 32 32 180608 13
+20150620 17 17 95948 6
+20150621 36 38 320633 14
+20150622 20 23 240734 8
+20150623 18 18 101592 6
+20150624 24 24 135456 8
+20150625 16 16 90304 5
+20150626 28 30 269837 11
+20150627 19 19 107236 7
+20150628 26 26 146744 10
+20150629 27 35 525545 14
+20150630 16 19 325779 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 2
+0s-30s 274
+30s-2mn 2
+2mn-5mn 2
+15mn-30mn 3
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 713 4001596 286 286
+END_SIDER

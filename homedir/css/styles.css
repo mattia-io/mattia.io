@@ -1,0 +1,455 @@
+/* Typography
+================================= */
+@charset "utf-8";
+/* Simple fluid media
+   Note: Fluid media requires that you remove the media's height and width attributes from the HTML
+   http://www.alistapart.com/articles/fluid-images/
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700);
+@import url(http.//fonts.googleapis.com/css?family=Varela+Round);
+
+@font-face {
+    font-family: myBrandon;
+    src: url(../fonts/Brandon_bld.otf);
+}
+
+body {
+background-color: #fff;
+padding-bottom: 50px;
+}
+
+h2, h1 {
+ font-family:'Varela Round', sans-serif;
+ color: #fff;
+ padding: 0;
+ margin: 0;
+}
+h2 {
+	font-size: 20px;
+	line-height: 1.5;
+}
+h1 {
+ font-size: 40px;
+ width: 100%;
+ line-height: 1.3;
+}
+
+p {
+	font-family: 'Varela Round', sans-serif;
+	color: #444e53;
+	 font-size: 20px;
+	 width: 100%;
+	 line-height: 1.5;
+}
+
+li {
+	list-style: none;
+	padding: 0;
+}
+
+a{
+	font-family: 'Varela Round', sans-serif;
+	 color: #53bbb4;
+	 font-size: 20px;
+	 line-height: 1.5;
+}
+
+a:hover {
+	color: #278882;
+	text-decoration: underline;
+
+}
+
+a:visited {
+	color: #53bbb4;
+	text-decoration: none;
+
+}
+
+a:active {
+	color: #53bbb4;
+	text-decoration: none;
+}
+
+
+ul {
+	padding: 0;
+}
+
+
+.hey {
+	font-size: 24px;
+	color: #444e53;
+	margin-bottom: 30px;
+}
+
+.hero-header {
+	padding: 50px 0px;
+}
+
+.cv-header {
+	clear: both;
+	padding: 50px 0;
+}
+
+.cv {
+	float: right;
+}
+
+.name{
+	float: left;
+}
+
+.tite-cv {
+		font-size: 50px;
+		margin-top: 0px;
+	}
+
+.title-cv {
+	font-family: 'myBrandon', sans-serif;
+	 font-size: 50px;
+}
+
+.green {
+	color: #53bbb4;
+}
+
+.subtitle-cv {
+	font-size: 26px;
+	line-height: 1.2;
+	margin-bottom:10px;
+}
+
+.studio-38 {
+	font-size: 26px;
+}
+
+.crossed-text{
+    text-decoration: line-through;
+}
+
+
+/* Layout
+================================= */
+
+.container {
+	width: 95%;
+	max-width: 1170px;
+	margin: auto;
+
+}
+
+.hero {
+	background-color: #53bbb4;
+	padding: 20px 0 50px 0;
+}
+
+.white-section {
+	padding-top: 50px;
+	padding-bottom: 0px;
+}
+}
+
+.social {
+	margin-right: 30px;
+	padding-right: 30px;
+}
+
+.work-experience {
+	margin-top: 50px;
+}
+
+.green-section {
+	background-color: #53bbb4;
+	padding-top: 50px;
+	padding-bottom: 0px;
+}
+
+.flex-yapi {
+	 display: flex;
+}
+
+.education {
+	padding-bottom: 0px;
+}
+
+.skill {
+	margin-top:50px;
+	padding: 0 5%;
+}
+
+.center-profile {
+	margin: auto;
+	text-align: center;
+
+}
+
+.human-padding {
+	margin-bottom: 50px;
+	margin-right: 0px;
+	padding-left: 0px;
+}
+
+/* Images
+================================= */
+
+.DD-image {
+	margin: auto;
+	padding-top: 50px;
+	padding-bottom: 0px;
+	display: block;
+	width: 70%;
+
+}
+
+.portfolio-image {
+
+	margin: auto;
+	width: 100%;
+	margin-top: 50px;
+	display: block;
+	width: 90%;
+}
+
+.yapi-pic {
+	align-self: flex-end ;
+	margin: auto;
+	margin-top: 50px;
+	display: block;
+	width: 70%;
+}
+
+.profile-pic{
+	border-radius: 50%;
+	border: 2px solid #53bbb4 ;
+	margin: auto;
+	text-align: center;
+	margin-bottom: 30px;
+	display: block;
+	width: 50%;
+}
+
+/* buttons
+================================= */
+.btn-primary-outline {
+	margin-top:0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	font-size: 18px;
+  	color: #278882;
+}
+
+.btn-primary-outline:visited {
+	margin-left:0px;
+	padding-left: 0px;
+	font-size: 18px;
+  	color: #278882;
+}
+
+.btn-primary-outline:hover {
+	text-decoration: underline;
+
+}
+
+.social {
+	margin-right: 30px;
+
+}
+
+
+
+
+/* media queries
+================================= */
+@media (min-width: 480px) and (max-width: 767px) {
+
+.portfolio-image {
+	width: 80%;
+	margin: auto;
+	display: block;
+	margin-top: 50px;
+}
+
+.container {
+	width: 90%;
+}
+
+.white-section {
+	padding-top: 100px;
+}
+.green-section {
+	padding-top: 100px;
+}
+
+.education {
+	padding-bottom: 0;
+}
+
+
+.profile-pic {
+	width: 40%;
+	display: block;
+}
+
+h1 {
+	font-size: 50px;
+	line-height: 1.2;
+}
+
+.bio {
+	margin-top: 10px;
+}
+
+.DD-image, .yapi-pic  {
+	width: 65%;
+}
+
+.hey {
+	font-size: 28px;
+}
+
+.social {
+	margin-right: 30px;
+}
+
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+h1 {
+	font-size: 55px;
+	line-height: 1.2;
+}
+
+h2 {
+	font-size: 22px;
+}
+
+.hey {
+	font-size: 30px;
+}
+
+.p-index {
+	font-size: 22px;
+}
+
+
+
+.DD-image, .yapi-pic  {
+	width: 70%;
+}
+
+.title-cv {
+	font-size: 65px;
+}
+
+.portfolio-image {
+	width: 65%;
+	margin: auto;
+	display: block;
+	margin-top: 50px;
+}
+
+.container {
+	width: 90%;
+}
+
+.profile-pic {
+	width: 30%;
+	display: block;
+}
+
+
+.center-profile {
+	width: 100%;
+	margin-left: 0;
+}
+
+.center {
+	text-align: center;
+}
+
+
+.white-section, .green-section, {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.human-padding {
+	margin: auto
+	margin-bottom: 50px;
+}
+
+.social {
+	margin-right: 30px;
+
+}
+
+}
+
+
+@media (min-width: 993px) {
+
+.hey {
+	font-size: 30px;
+}
+
+
+
+h1 {
+	font-size: 65px;
+	line-height: 1.2;
+	width: 90%;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+.p-index {
+	font-size: 24px;
+}
+
+
+
+.title-cv {
+	font-size: 65px;
+}
+
+
+.DD-image, .yapi-pic  {
+	width: 30%;
+}
+
+.center {
+	text-align: center;
+}
+
+.skill {
+	margin-top:50px;
+	padding: 0 5%;
+}
+
+.p-shorter {
+	width: 80%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.white-section, .green-section, {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.portfolio-image {
+	width: 45%;
+	}
+
+.social {
+	margin-right: 30px;
+
+}
