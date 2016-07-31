@@ -136,8 +136,13 @@ ul {
 
 .need-help{
   	font-size: 30px;
+    padding-bottom: 0;
+    margin-bottom: 0;
 }
 
+.dark-grey {
+  color: #444e53;
+}
 /* Layout
 ================================= */
 
